@@ -1,0 +1,1507 @@
+student_id,name,gender,grade,subject,marks,attendance_%,study_hours_per_week,test_preparation,parental_education
+STU1094,Aarav Singh,Female,10,Computer Science,67.9,67.5,5.5,Occasional,Bachelor's
+STU1037,Arjun Kumar,Female,10,Mathematics,58.4,70.4,2.6,None,Master's
+STU1008,Ishaan Kapoor,Male,9,Social Studies,97.8,83.0,4.3,None,High School
+STU1288,Dev Nair,Male,9,Mathematics,100.0,100.0,5.0,Occasional,High School
+STU1012,Ishaan Kumar,Male,11,Mathematics,97.3,99.6,4.6,None,Master's
+STU1266,Krishna Joshi,Female,11,Mathematics,97.1,87.1,1.4,None,Master's
+STU1106,Priya Iyer,Female,11,Mathematics,79.1,100.0,4.2,Occasional,High School
+STU1081,Zara Verma,Female,11,Computer Science,82.6,94.4,1.4,None,Bachelor's
+STU1179,Rohan Kapoor,Male,11,Computer Science,67.2,67.9,6.0,None,High School
+STU1072,Priya Verma,Female,9,Social Studies,41.5,87.7,2.6,Regular,High School
+STU1056,Dev Gupta,Female,11,Computer Science,85.7,90.9,2.6,Occasional,Bachelor's
+STU1023,Vihaan Rao,Male,10,English,91.8,94.8,5.0,Regular,Bachelor's
+STU1146,Vihaan Reddy,Female,9,Science,79.4,73.8,1.9,Occasional,PhD
+STU1040,Neha Sharma,Male,12,Computer Science,98.6,69.3,5.9,Occasional,Bachelor's
+STU1051,Priya Kumar,Female,11,Computer Science,94.4,83.9,1.4,Regular,Master's
+STU1136,Aryan Gupta,Female,9,Social Studies,90.0,85.1,4.4,Occasional,Master's
+STU1127,Meera Nair,Female,9,Mathematics,97.7,95.9,3.1,Regular,Bachelor's
+STU1196,Rohan Kumar,Male,12,Science,73.9,85.9,1.1,Regular,High School
+STU1146,Vihaan Reddy,Female,9,Computer Science,71.3,73.8,1.9,Occasional,PhD
+STU1090,Tanvi Desai,Male,10,Computer Science,87.4,78.4,2.9,None,High School
+STU1138,Vivaan Reddy,Male,12,Social Studies,72.9,74.9,4.5,Regular,High School
+STU1253,Saanvi Singh,Female,11,Computer Science,77.3,82.7,3.0,Regular,Master's
+STU1178,Ishaan Kapoor,Female,10,English,63.0,83.1,1.5,Regular,High School
+STU1226,Riya Patel,Female,10,Social Studies,85.2,80.9,4.3,Regular,Bachelor's
+STU1073,Sai Singh,Male,12,English,100.0,89.9,4.3,Regular,Bachelor's
+STU1271,Saanvi Kumar,Male,10,English,68.8,92.5,3.8,Regular,High School
+STU1108,Aadhya Reddy,Female,9,Mathematics,68.5,,2.1,Occasional,High School
+STU1102,Aadhya Iyer,Female,9,Mathematics,63.6,72.8,2.5,None,Master's
+STU1077,Reyansh Chopra,Male,9,Computer Science,86.3,93.8,2.6,Occasional,High School
+STU1212,Neha Reddy,Female,9,English,81.9,77.5,5.5,Occasional,Bachelor's
+STU1243,Aarohi Singh,Male,11,Science,99.9,71.4,1.8,None,Master's
+STU1139,Aryan Sharma,Male,12,Computer Science,76.2,74.2,6.2,Regular,Bachelor's
+STU1255,Simran Joshi,Male,11,Social Studies,66.1,95.2,4.3,Regular,High School
+STU1057,Kabir Kapoor,Male,11,Mathematics,70.6,65.0,1.7,None,Master's
+STU1014,Krishna Joshi,Male,10,Science,85.3,99.1,6.0,Regular,Bachelor's
+STU1117,Myra Mehta,Female,11,English,81.4,75.1,3.5,None,High School
+STU1261,Aarohi Reddy,Female,9,Science,53.5,65.1,1.4,Occasional,Bachelor's
+STU1174,Vihaan Rao,Female,10,English,83.1,76.3,5.4,Regular,Bachelor's
+STU1209,Dev Desai,Female,11,Computer Science,80.3,86.4,4.6,None,High School
+STU1127,Meera Nair,Female,9,Social Studies,100.0,95.9,3.1,Regular,Bachelor's
+STU1192,Ira Joshi,Female,11,Mathematics,91.6,80.7,0.8,Occasional,High School
+STU1070,Sai Nair,Male,10,Mathematics,80.6,78.2,6.1,Occasional,PhD
+STU1199,Vivaan Kapoor,Male,9,Mathematics,74.6,66.6,1.1,None,Bachelor's
+STU1116,Aarohi Desai,Female,12,Science,85.0,83.6,3.1,Regular,High School
+STU1022,Simran Iyer,Female,12,Science,84.5,100.0,2.4,Occasional,Bachelor's
+STU1099,Ishaan Desai,Female,12,Social Studies,100.0,81.7,4.2,Regular,Bachelor's
+STU1142,Yash Kapoor,Female,10,English,90.2,94.0,2.7,Regular,High School
+STU1211,Aarohi Gupta,Male,10,Science,76.2,84.5,1.2,Occasional,Bachelor's
+STU1023,Vihaan Rao,Male,10,Science,92.4,94.8,5.0,Regular,Bachelor's
+STU1172,Yash Singh,Male,12,Science,77.4,68.6,5.4,None,Master's
+STU1020,Myra Kumar,Female,9,Science,90.7,97.4,7.3,Occasional,High School
+STU1185,Ira Patel,Female,12,Mathematics,77.4,93.1,4.2,None,Bachelor's
+STU1264,Yash Reddy,Female,9,Mathematics,100.0,87.9,6.9,Regular,High School
+STU1179,Rohan Kapoor,Male,11,Mathematics,77.0,67.9,6.0,None,High School
+STU1144,Aarohi Kapoor,Female,11,Mathematics,86.9,100.0,4.1,Occasional,High School
+STU1133,Kiara Singh,Female,9,Science,100.0,100.0,5.0,None,Bachelor's
+STU1291,Saanvi Iyer,Female,9,English,80.6,89.0,5.6,None,Master's
+STU1090,Tanvi Desai,Male,10,English,83.2,78.4,2.9,None,High School
+STU1260,Tanvi Singh,Male,12,Computer Science,81.9,91.5,5.2,Occasional,Master's
+STU1092,Anika Sharma,Female,12,Social Studies,84.7,88.3,2.8,Regular,Master's
+STU1153,Diya Verma,Female,11,Computer Science,83.6,80.7,5.4,Occasional,Bachelor's
+STU1294,Neha Mehta,Male,11,Science,55.1,71.1,0.8,None,Master's
+STU1050,Krishna Patel,Male,10,English,75.7,71.5,4.0,Occasional,PhD
+STU1151,Saanvi Rao,Female,10,Science,92.3,81.4,4.0,None,High School
+STU1179,Rohan Kapoor,Male,11,Social Studies,84.2,67.9,6.0,None,High School
+STU1025,Kiara Nair,Male,11,English,87.9,80.9,4.6,Occasional,Bachelor's
+STU1012,Ishaan Kumar,Male,11,Social Studies,91.3,99.6,4.6,None,Master's
+STU1204,Kiara Mehta,Female,10,Mathematics,83.5,100.0,4.3,None,Bachelor's
+STU1287,Priya Singh,Female,9,English,68.8,78.6,4.1,None,Bachelor's
+STU1011,Anika Singh,Male,11,Social Studies,84.3,94.8,6.3,None,High School
+STU1160,Ishaan Kapoor,Female,12,Computer Science,100.0,92.8,3.5,None,PhD
+STU1069,Neha Patel,Female,12,Social Studies,90.9,99.0,2.3,Regular,High School
+STU1226,Riya Patel,Female,10,English,82.3,80.9,4.3,Regular,Bachelor's
+STU1093,Aarav Kumar,Male,12,English,90.0,77.7,5.2,None,Master's
+STU1292,Riya Patel,Female,10,English,100.0,87.3,4.5,None,Bachelor's
+STU1131,Meera Verma,Female,10,Science,93.3,100.0,3.6,Regular,Bachelor's
+STU1019,Saanvi Verma,Female,10,Mathematics,72.2,79.7,5.0,Regular,High School
+STU1082,Rohan Singh,Female,10,English,65.1,85.5,1.9,None,High School
+STU1040,Neha Sharma,Male,12,Mathematics,100.0,69.3,5.9,Occasional,Bachelor's
+STU1260,Tanvi Singh,Male,12,Mathematics,72.1,91.5,5.2,Occasional,Master's
+STU1139,Aryan Sharma,Male,12,English,78.5,74.2,6.2,Regular,Bachelor's
+STU1229,Zara Nair,Female,10,Computer Science,81.7,,6.2,None,Master's
+STU1086,Meera Singh,Female,9,English,93.2,100.0,0.7,Occasional,High School
+STU1076,Zara Nair,Male,10,Social Studies,79.0,87.3,2.7,None,PhD
+STU1005,Aditya Mehta,Female,10,English,82.9,89.3,1.3,Occasional,Master's
+STU1028,Neha Desai,Female,9,Science,81.6,98.7,0.0,Regular,High School
+STU1001,Diya Kumar,Male,11,Computer Science,66.6,74.1,0.1,None,Bachelor's
+STU1166,Reyansh Sharma,Male,9,Mathematics,98.7,79.3,6.2,None,High School
+STU1079,Anika Desai,Female,12,Science,67.8,83.1,4.7,None,Bachelor's
+STU1279,Simran Rao,Male,11,Mathematics,82.1,74.7,4.5,Occasional,Bachelor's
+STU1260,Tanvi Singh,Male,12,English,80.4,91.5,5.2,Occasional,Master's
+STU1264,Yash Reddy,Female,9,Science,100.0,87.9,6.9,Regular,High School
+STU1177,Saanvi Gupta,Male,9,Social Studies,81.9,100.0,4.5,Occasional,Master's
+STU1175,Riya Kumar,Female,12,Science,88.3,87.0,6.3,None,High School
+STU1136,Aryan Gupta,Female,9,Science,82.0,85.1,4.4,Occasional,Master's
+STU1038,Aarohi Rao,Female,9,Social Studies,82.5,85.4,3.8,Occasional,High School
+STU1103,Anika Gupta,Female,12,Social Studies,94.2,93.3,3.7,None,High School
+STU1052,Kabir Rao,Male,11,English,84.3,85.9,5.0,None,Bachelor's
+STU1129,Kabir Iyer,Female,9,Computer Science,82.6,94.4,7.2,None,Master's
+STU1244,Priya Chopra,Male,12,English,93.6,90.4,3.4,None,High School
+STU1296,Aditya Joshi,Female,9,Science,,89.1,3.3,Occasional,High School
+STU1123,Aditya Rao,Male,10,Computer Science,81.6,99.0,4.1,Occasional,Bachelor's
+STU1253,Saanvi Singh,Female,11,Social Studies,81.5,82.7,3.0,Regular,Master's
+STU1260,Tanvi Singh,Male,12,Social Studies,78.2,91.5,5.2,Occasional,Master's
+STU1143,Krishna Sharma,Female,9,Social Studies,72.8,94.6,6.8,Occasional,High School
+STU1120,Ananya Nair,Male,9,Social Studies,81.6,63.9,4.5,Occasional,Bachelor's
+STU1134,Aditya Reddy,Male,12,Computer Science,74.5,82.5,2.0,Occasional,Bachelor's
+STU1197,Rohan Verma,Male,11,Science,72.9,87.5,2.3,None,High School
+STU1273,Neha Rao,Male,10,Mathematics,58.4,78.2,0.0,None,High School
+STU1003,Rohan Iyer,Female,9,English,74.3,93.9,0.0,Regular,PhD
+STU1210,Aarav Chopra,Female,10,Mathematics,82.1,96.1,4.1,Occasional,Bachelor's
+STU1037,Arjun Kumar,Female,10,Science,63.5,70.4,2.6,None,Master's
+STU1250,Zara Rao,Female,10,Mathematics,90.7,100.0,2.6,Occasional,High School
+STU1140,Tanvi Sharma,Female,11,Science,80.7,97.2,6.0,Occasional,High School
+STU1121,Aarav Iyer,Female,11,Computer Science,79.0,88.1,1.8,Regular,Bachelor's
+STU1286,Aarav Nair,Male,11,Computer Science,82.8,89.1,1.0,Occasional,Bachelor's
+STU1041,Vivaan Joshi,Female,11,Science,71.3,80.7,3.0,Occasional,PhD
+STU1268,Arjun Joshi,Female,12,Computer Science,89.0,77.5,4.9,Occasional,Bachelor's
+STU1244,Priya Chopra,Male,12,Computer Science,96.6,90.4,3.4,None,High School
+STU1023,Vihaan Rao,Male,10,Social Studies,88.6,94.8,5.0,Regular,Bachelor's
+STU1128,Neha Iyer,Male,10,Social Studies,70.6,73.6,1.8,Regular,High School
+STU1194,Riya Singh,Female,9,Computer Science,60.0,71.8,1.7,None,Bachelor's
+STU1118,Diya Gupta,Female,9,Social Studies,86.6,78.0,5.0,Regular,Bachelor's
+STU1058,Sai Kapoor,Male,10,Computer Science,78.9,88.1,2.9,Occasional,Master's
+STU1291,Saanvi Iyer,Female,9,Social Studies,84.5,89.0,5.6,None,Master's
+STU1073,Sai Singh,Male,12,Computer Science,96.0,89.9,4.3,Regular,Bachelor's
+STU1223,Ananya Chopra,Female,11,Social Studies,100.0,100.0,4.8,None,Bachelor's
+STU1236,Kabir Patel,Female,12,English,86.4,93.3,2.1,None,High School
+STU1097,Aadhya Joshi,Male,11,Computer Science,92.2,88.1,7.7,Occasional,Bachelor's
+STU1140,Tanvi Sharma,Female,11,English,81.6,97.2,6.0,Occasional,High School
+STU1286,Aarav Nair,Male,11,Science,83.2,89.1,1.0,Occasional,Bachelor's
+STU1286,Aarav Nair,Male,11,English,,89.1,1.0,Occasional,Bachelor's
+STU1169,Sai Singh,Female,11,Social Studies,78.3,55.7,4.7,Occasional,High School
+STU1089,Rohan Mehta,Female,9,English,97.7,100.0,1.2,NONE  ,Bachelor's
+STU1004,Tanvi Mehta,Female,9,Social Studies,78.4,95.7,4.5,Occasional,High School
+STU1165,Sai Mehta,Female,10,Mathematics,69.6,90.1,4.6,Occasional,Master's
+STU1254,Diya Kumar,Female,10,Science,76.5,78.8,3.7,None,High School
+STU1100,Anika Gupta,Female,10,Science,86.0,88.7,1.4,Occasional,Bachelor's
+STU1096,Aadhya Verma,Female,11,Computer Science,88.6,100.0,3.0,Regular,Bachelor's
+STU1066,Vivaan Gupta,Male,11,Mathematics,98.5,86.6,3.0,None,High School
+STU1033,Aryan Reddy,Male,11,English,82.6,90.0,2.7,Regular,High School
+STU1057,Kabir Kapoor,Male,11,English,65.9,65.0,1.7,None,Master's
+STU1128,Neha Iyer,Male,10,Mathematics,78.8,73.6,1.8,Regular,High School
+STU1229,Zara Nair,Female,10,Science,96.3,86.4,6.2,None,Master's
+STU1029,Aarav Nair,Female,10,Science,72.1,83.3,1.8,Occasional,Bachelor's
+STU1120,Ananya Nair,Male,9,English,80.4,63.9,4.5,Occasional,Bachelor's
+STU1238,Ira Verma,Male,12,Mathematics,75.7,67.5,4.8,Occasional,PhD
+STU1034,Anika Verma,Female,10,English,90.7,79.6,4.0,Occasional,Bachelor's
+STU1065,Ira Singh,Female,11,Mathematics,82.0,85.3,2.4,Occasional,PhD
+STU1231,Myra Patel,Male,12,Social Studies,87.0,85.5,3.0,Occasional,Bachelor's
+STU1002,Ira Patel,Male,9,Social Studies,83.8,96.4,2.4,None,High School
+STU1021,Zara Nair,Male,10,Social Studies,75.4,83.5,3.3,Occasional,Bachelor's
+STU1141,Anika Gupta,Male,10,English,87.7,83.4,5.5,Occasional,Bachelor's
+STU1245,Aarohi Reddy,Female,11,Social Studies,81.2,78.0,2.7,None,Bachelor's
+STU1078,Riya Verma,Male,10,English,61.9,87.9,4.3,Regular,High School
+STU1258,Zara Reddy,Male,12,Computer Science,62.7,92.3,2.9,None,Master's
+STU1006,Rohan Mehta,Male,11,Computer Science,85.8,97.5,0.9,Occasional,High School
+STU1174,Vihaan Rao,Female,10,Computer Science,85.4,76.3,5.4,Regular,Bachelor's
+STU1019,Saanvi Verma,Female,10,Social Studies,65.5,79.7,5.0,Regular,High School
+STU1157,Saanvi Verma,Male,10,Social Studies,82.5,97.7,4.2,Regular,High School
+STU1074,Ananya Chopra,Female,9,Mathematics,80.6,86.8,3.2,None,High School
+STU1098,Yash Sharma,Female,9,English,85.7,91.6,3.5,Regular,High School
+STU1102,Aadhya Iyer,Female,9,Science,67.6,72.8,2.5,None,Master's
+STU1214,Simran Patel,Female,12,English,100.0,100.0,5.1,Occasional,Bachelor's
+STU1163,Neha Kapoor,Male,11,English,82.4,78.6,2.3,Occasional,PhD
+STU1241,Zara Gupta,Female,9,Science,55.4,89.2,2.4,Regular,Bachelor's
+STU1225,Saanvi Verma,Male,9,Social Studies,97.4,100.0,3.0,Regular,High School
+STU1105,Reyansh Sharma,Male,12,Mathematics,53.6,76.8,3.9,None,Bachelor's
+STU1129,Kabir Iyer,Female,9,Social Studies,82.3,94.4,7.2,None,Master's
+STU1035,Aarohi Mehta,Female,12,Computer Science,65.9,71.2,3.2,Occasional,High School
+STU1004,Tanvi Mehta,Female,9,Computer Science,73.8,95.7,4.5,Occasional,High School
+STU1022,Simran Iyer,Female,12,Mathematics,89.0,100.0,2.4,Occasional,Bachelor's
+STU1003,Rohan Iyer,Female,9,Mathematics,76.4,93.9,0.0,Regular,PhD
+STU1280,Ira Nair,Male,9,Science,82.6,85.1,3.9,None,Bachelor's
+STU1176,Aditya Chopra,Male,9,English,86.6,83.7,6.5,Occasional,High School
+STU1090,Tanvi Desai,Male,10,Mathematics,86.5,78.4,2.9,None,High School
+STU1165,Sai Mehta,Female,10,Computer Science,71.7,90.1,4.6,Occasional,Master's
+STU1029,Aarav Nair,Female,10,English,64.6,83.3,1.8,Occasional,Bachelor's
+STU1082,Rohan Singh,Female,10,Mathematics,76.9,85.5,1.9,None,High School
+STU1042,Dev Kumar,Male,11,Mathematics,85.6,84.4,4.0,None,Bachelor's
+STU1254,Diya Kumar,Female,10,English,68.0,78.8,3.7,None,High School
+STU1143,Krishna Sharma,Female,9,Science,78.0,94.6,6.8,Occasional,High School
+STU1238,Ira Verma,Male,12,English,84.5,67.5,4.8,Occasional,PhD
+STU1049,Arjun Chopra,Male,12,Computer Science,88.4,100.0,2.7,Occasional,Master's
+STU1237,Aarohi Sharma,Female,10,Science,79.7,82.9,2.3,Occasional,Bachelor's
+STU1188,Arjun Kumar,Female,11,Social Studies,,75.1,2.9,Regular,High School
+STU1147,Aditya Singh,Female,11,English,90.2,96.6,0.0,Occasional,Bachelor's
+STU1019,Saanvi Verma,Female,10,Computer Science,55.8,79.7,5.0,Regular,High School
+STU1000,Reyansh Iyer,Male,11,Computer Science,96.7,88.8,1.5,None,Master's
+STU1147,Aditya Singh,Female,11,Social Studies,91.9,96.6,0.0,Occasional,Bachelor's
+STU1009,Aryan Patel,Male,12,Science,91.9,84.6,7.9,None,Master's
+STU1106,Priya Iyer,Female,11,Science,63.2,100.0,4.2,Occasional,High School
+STU1243,Aarohi Singh,Male,11,Social Studies,94.7,71.4,1.8,None,Master's
+STU1213,Neha Singh,Female,11,English,73.1,82.7,5.2,Occasional,High School
+STU1235,Myra Patel,Female,10,English,81.0,99.1,3.1,Occasional,Bachelor's
+STU1037,Arjun Kumar,Female,10,Computer Science,57.6,70.4,2.6,None,Master's
+STU1048,Kiara Desai,Male,9,Science,71.3,88.0,3.8,None,Bachelor's
+STU1167,Aadhya Iyer,Male,12,English,92.3,76.7,6.7,Occasional,High School
+STU1272,Ananya Desai,Male,10,Science,72.8,84.2,2.0,None,Master's
+STU1193,Diya Joshi,Male,10,English,84.2,67.1,6.0,Occasional,Master's
+STU1100,Anika Gupta,Female,10,Social Studies,79.2,88.7,1.4,Occasional,Bachelor's
+STU1266,Krishna Joshi,Female,11,Computer Science,85.3,87.1,1.4,None,Master's
+STU1052,Kabir Rao,Male,11,Social Studies,89.2,85.9,5.0,None,Bachelor's
+STU1090,Tanvi Desai,Male,10,Science,82.4,78.4,2.9,None,High School
+STU1217,Ananya Desai,Female,9,English,68.8,63.2,4.7,None,Bachelor's
+STU1119,Aryan Reddy,Male,9,English,79.1,83.9,4.4,None,PhD
+STU1062,Aryan Nair,Female,9,Social Studies,64.7,86.7,1.3,Regular,High School
+STU1022,Simran Iyer,Female,12,Social Studies,85.1,100.0,2.4,Occasional,Bachelor's
+STU1202,Ananya Verma,Female,12,Social Studies,84.1,95.7,3.0,Occasional,High School
+STU1010,Sai Reddy,Male,11,Science,82.1,96.1,2.6,None,High School
+STU1141,Anika Gupta,Male,10,Mathematics,82.9,83.4,5.5,Occasional,Bachelor's
+STU1045,Aarohi Nair,Female,12,Social Studies,78.4,87.0,1.6,None,PhD
+STU1109,Ira Nair,Male,10,Science,79.0,78.2,5.8,None,Bachelor's
+STU1068,Aditya Chopra,Female,12,Computer Science,61.7,75.8,1.7,None,High School
+STU1189,Simran Verma,Male,10,English,77.8,65.9,2.6,Regular,Bachelor's
+STU1216,Priya Iyer,Female,9,Science,88.0,97.7,2.1,Occasional,Bachelor's
+STU1061,Vivaan Mehta,Female,11,Social Studies,99.1,82.3,6.1,None,High School
+STU1132,Rohan Verma,Female,12,Computer Science,79.7,97.0,2.0,Regular,Bachelor's
+STU1247,Anika Iyer,Male,9,Social Studies,77.4,73.4,1.7,None,Master's
+STU1284,Aryan Patel,Female,10,Computer Science,69.0,94.9,2.4,Occasional,High School
+STU1276,Reyansh Chopra,Male,11,Science,72.9,54.6,4.3,Occasional,Master's
+STU1124,Dev Iyer,Female,12,Science,92.7,92.1,5.3,None,Bachelor's
+STU1032,Aditya Nair,Male,9,Computer Science,75.1,100.0,2.3,None,Master's
+STU1196,Rohan Kumar,Male,12,Computer Science,61.2,85.9,1.1,Regular,High School
+STU1112,Tanvi Joshi,Male,9,Computer Science,81.5,73.8,3.5,None,Master's
+STU1041,Vivaan Joshi,Female,11,English,71.2,80.7,3.0,Occasional,PhD
+STU1112,Tanvi Joshi,Male,9,English,75.7,73.8,3.5,None,Master's
+STU1071,Ishaan Singh,Male,11,Social Studies,92.5,91.5,3.8,Regular,High School
+STU1290,Myra Joshi,Male,11,Social Studies,75.7,86.1,0.8,None,High School
+STU1168,Aryan Reddy,Male,11,Mathematics,75.8,79.9,0.0,Regular,Bachelor's
+STU1293,Sai Gupta,Female,11,Computer Science,78.3,75.0,4.1,Occasional,Bachelor's
+STU1068,Aditya Chopra,Female,12,Mathematics,44.8,75.8,1.7,None,High School
+STU1004,Tanvi Mehta,Female,9,Mathematics,81.0,95.7,4.5,Occasional,High School
+STU1166,Reyansh Sharma,Male,9,Social Studies,96.3,79.3,6.2,None,High School
+STU1283,Diya Desai,Male,10,Social Studies,90.1,79.5,2.1,Occasional,Bachelor's
+STU1299,Kiara Desai,Female,11,English,74.3,74.0,3.1,Occasional,Bachelor's
+STU1075,Aarohi Kumar,Male,12,Social Studies,91.1,100.0,0.8,Occasional,High School
+STU1055,Aarav Singh,Male,11,Mathematics,73.2,95.0,3.9,None,PhD
+STU1172,Yash Singh,Male,12,English,71.6,68.6,5.4,None,Master's
+STU1149,Saanvi Sharma,Female,12,Social Studies,71.7,70.8,3.3,Regular,Master's
+STU1069,Neha Patel,Female,12,Science,85.6,99.0,2.3,Regular,High School
+STU1005,Aditya Mehta,Female,10,Science,74.9,89.3,1.3,Occasional,Master's
+STU1148,Rohan Joshi,Female,10,Computer Science,96.0,95.2,2.5,Regular,High School
+STU1246,Aryan Chopra,Male,9,Social Studies,82.4,82.8,4.2,None,Bachelor's
+STU1283,Diya Desai,Male,10,Science,82.9,79.5,2.1,Occasional,Bachelor's
+STU1181,Reyansh Sharma,Male,12,English,64.4,81.2,1.2,Regular,Bachelor's
+STU1140,Tanvi Sharma,Female,11,Computer Science,83.0,97.2,6.0,Occasional,High School
+STU1173,Diya Desai,Male,10,Computer Science,51.1,82.3,1.7,None,High School
+STU1236,Kabir Patel,Female,12,Social Studies,95.0,93.3,2.1,None,High School
+STU1296,Aditya Joshi,Female,9,English,96.9,89.1,3.3,Occasional,High School
+STU1215,Priya Iyer,Male,11,Science,86.4,76.4,4.6,Occasional,Bachelor's
+STU1072,Priya Verma,Female,9,Science,48.8,87.7,2.6,Regular,High School
+STU1239,Simran Mehta,Male,10,Social Studies,83.0,92.7,3.1,Regular,High School
+STU1025,Kiara Nair,Male,11,Social Studies,85.7,80.9,4.6,Occasional,Bachelor's
+STU1298,Ishaan Joshi,Male,9,Mathematics,100.0,89.5,4.2,Occasional,Bachelor's
+STU1270,Vivaan Joshi,Male,12,Mathematics,92.7,98.1,6.5,None,Bachelor's
+STU1291,Saanvi Iyer,Female,9,Mathematics,77.0,89.0,5.6,None,Master's
+STU1200,Myra Reddy,Male,10,English,89.3,83.3,1.9,Occasional,High School
+STU1172,Yash Singh,Male,12,Mathematics,72.7,68.6,5.4,None,Master's
+STU1184,Ananya Singh,Male,9,Mathematics,86.4,96.5,2.1,None,Bachelor's
+STU1240,Rohan Kumar,Female,12,Science,87.1,87.0,5.1,Regular,Master's
+STU1030,Tanvi Mehta,Male,9,Science,81.6,84.4,2.6,None,High School
+STU1191,Riya Nair,Male,9,English,63.2,92.6,1.3,Occasional,Master's
+STU1286,Aarav Nair,Male,11,Social Studies,70.5,89.1,1.0,Occasional,Bachelor's
+STU1055,Aarav Singh,Male,11,Social Studies,73.1,95.0,3.9,NONE  ,PhD
+STU1281,Anika Mehta,Male,9,Computer Science,69.6,73.9,0.0,Regular,Master's
+STU1227,Kabir Kapoor,Female,12,English,80.8,100.0,4.3,Occasional,High School
+STU1182,Arjun Joshi,Male,9,Social Studies,81.6,89.1,2.1,None,Bachelor's
+STU1101,Zara Kumar,Female,12,English,54.5,67.8,0.5,Occasional,High School
+STU1081,Zara Verma,Female,11,English,72.4,94.4,1.4,None,Bachelor's
+STU1189,Simran Verma,Male,10,Science,82.7,65.9,2.6,Regular,Bachelor's
+STU1119,Aryan Reddy,Male,9,Mathematics,89.5,83.9,4.4,None,PhD
+STU1079,Anika Desai,Female,12,English,75.7,83.1,4.7,None,Bachelor's
+STU1130,Aadhya Kumar,Male,10,Social Studies,59.4,76.6,4.3,None,PhD
+STU1175,Riya Kumar,Female,12,Social Studies,81.4,87.0,6.3,None,High School
+STU1100,Anika Gupta,Female,10,Mathematics,84.0,88.7,1.4,Occasional,Bachelor's
+STU1208,Dev Chopra,Male,11,English,90.7,96.0,5.3,Occasional,High School
+STU1132,Rohan Verma,Female,12,Mathematics,65.1,97.0,2.0,Regular,Bachelor's
+STU1237,Aarohi Sharma,Female,10,Social Studies,82.3,82.9,2.3,Occasional,Bachelor's
+STU1202,Ananya Verma,Female,12,Mathematics,89.5,95.7,3.0,Occasional,High School
+STU1156,Meera Desai,Male,10,Science,57.7,97.9,2.8,None,High School
+STU1253,Saanvi Singh,Female,11,English,76.0,82.7,3.0,Regular,Master's
+STU1154,Reyansh Iyer,Male,12,Science,90.9,90.2,3.2,Occasional,Master's
+STU1208,Dev Chopra,Male,11,Computer Science,83.1,96.0,5.3,Occasional,High School
+STU1066,Vivaan Gupta,Male,11,Mathematics,98.5,86.6,3.0,None,High School
+STU1233,Simran Mehta,Male,11,Social Studies,78.2,91.2,5.7,Regular,Master's
+STU1034,Anika Verma,Female,10,Mathematics,87.0,79.6,4.0,Occasional,Bachelor's
+STU1195,Vivaan Kapoor,Male,11,Science,99.2,98.4,5.7,Occasional,PhD
+STU1210,Aarav Chopra,Female,10,Science,79.8,96.1,4.1,Occasional,Bachelor's
+STU1269,Krishna Rao,Female,12,Science,83.0,96.1,2.2,None,High School
+STU1223,Ananya Chopra,Female,11,English,94.2,100.0,4.8,None,Bachelor's
+STU1052,Kabir Rao,Male,11,Computer Science,89.9,85.9,5.0,None,Bachelor's
+STU1147,Aditya Singh,Female,11,Computer Science,97.6,96.6,0.0,Occasional,Bachelor's
+STU1206,Dev Kumar,Male,9,Social Studies,57.8,91.6,4.4,None,Bachelor's
+STU1266,Krishna Joshi,Female,11,Social Studies,77.3,87.1,1.4,None,Master's
+STU1171,Ishaan Chopra,Female,9,English,75.4,92.5,3.2,Regular,Master's
+STU1085,Anika Reddy,Female,11,Science,93.1,85.5,7.4,Regular,High School
+STU1138,Vivaan Reddy,Male,12,Computer Science,80.6,74.9,4.5,Regular,High School
+STU1230,Aryan Chopra,Male,12,Mathematics,71.3,72.5,3.8,Regular,Bachelor's
+STU1204,Kiara Mehta,Female,10,Social Studies,81.4,100.0,4.3,None,Bachelor's
+STU1204,Kiara Mehta,Female,10,English,82.5,100.0,4.3,None,Bachelor's
+STU1154,Reyansh Iyer,Male,12,Computer Science,91.2,90.2,3.2,Occasional,Master's
+STU1293,Sai Gupta,Female,11,Mathematics,71.5,75.0,4.1,Occasional,Bachelor's
+STU1042,Dev Kumar,Male,11,Social Studies,81.7,84.4,4.0,None,Bachelor's
+STU1162,Saanvi Desai,Female,9,Social Studies,90.4,80.3,3.5,Occasional,PhD
+STU1230,Aryan Chopra,Male,12,English,73.0,72.5,3.8,Regular,Bachelor's
+STU1294,Neha Mehta,Male,11,Mathematics,56.6,71.1,0.8,None,Master's
+STU1064,Arjun Reddy,Female,10,Computer Science,86.7,93.8,4.0,Occasional,PhD
+STU1065,Ira Singh,Female,11,Science,85.0,85.3,2.4,Occasional,PhD
+STU1136,Aryan Gupta,Female,9,Mathematics,76.1,85.1,4.4,Occasional,Master's
+STU1039,Ananya Desai,Female,9,Computer Science,67.2,74.5,4.3,None,Master's
+STU1237,Aarohi Sharma,Female,10,English,87.0,82.9,2.3,Occasional,Bachelor's
+STU1070,Sai Nair,Male,10,Science,80.6,78.2,6.1,Occasional,PhD
+STU1192,Ira Joshi,Female,11,Science,82.7,80.7,0.8,Occasional,High School
+STU1122,Aryan Rao,Female,10,Science,59.0,92.8,2.1,Regular,High School
+STU1166,Reyansh Sharma,Male,9,English,100.0,79.3,6.2,None,High School
+STU1043,Kiara Joshi,Female,10,Science,70.2,78.2,3.9,Regular,High School
+STU1277,Riya Patel,Male,12,Mathematics,73.0,82.2,1.6,Occasional,High School
+STU1050,Krishna Patel,Male,10,Social Studies,76.8,71.5,4.0,Occasional,PhD
+STU1030,Tanvi Mehta,Male,9,English,92.0,84.4,2.6,None,High School
+STU1038,Aarohi Rao,Female,9,Computer Science,86.2,85.4,3.8,Occasional,High School
+STU1074,Ananya Chopra,Female,9,Computer Science,82.6,86.8,3.2,None,High School
+STU1173,Diya Desai,Male,10,Social Studies,52.3,82.3,1.7,None,High School
+STU1013,Kabir Iyer,Female,12,Social Studies,84.8,90.0,4.9,Occasional,Master's
+STU1026,Aadhya Chopra,Female,10,Mathematics,67.7,85.9,0.7,Occasional,Bachelor's
+STU1065,Ira Singh,Female,11,Social Studies,82.4,85.3,2.4,Occasional,PhD
+STU1299,Kiara Desai,Female,11,Social Studies,69.7,74.0,3.1,Occasional,Bachelor's
+STU1060,Arjun Kumar,Female,10,Mathematics,84.0,74.1,1.9,Occasional,Master's
+STU1270,Vivaan Joshi,Male,12,Science,100.0,98.1,6.5,None,Bachelor's
+STU1250,Zara Rao,Female,10,English,92.7,100.0,2.6,Occasional,High School
+STU1161,Neha Gupta,Female,9,Computer Science,87.6,99.3,1.4,Regular,Master's
+STU1070,Sai Nair,Male,10,Computer Science,79.9,78.2,6.1,Occasional,PhD
+STU1288,Dev Nair,Male,9,Science,100.0,100.0,5.0,Occasional,High School
+STU1048,Kiara Desai,Male,9,Mathematics,76.9,88.0,3.8,None,Bachelor's
+STU1130,Aadhya Kumar,Male,10,Science,70.5,76.6,4.3,None,PhD
+STU1216,Priya Iyer,Female,9,Computer Science,88.2,97.7,2.1,Occasional,Bachelor's
+STU1037,Arjun Kumar,Female,10,English,72.7,70.4,2.6,None,Master's
+STU1142,Yash Kapoor,Female,10,Social Studies,96.9,94.0,2.7,Regular,High School
+STU1236,Kabir Patel,Female,12,Mathematics,93.8,93.3,2.1,None,High School
+STU1209,Dev Desai,Female,11,Science,81.7,86.4,4.6,None,High School
+STU1119,Aryan Reddy,Male,9,Social Studies,89.1,83.9,4.4,None,PhD
+STU1194,Riya Singh,Female,9,English,62.9,71.8,1.7,None,Bachelor's
+STU1202,Ananya Verma,Female,12,Science,75.4,95.7,3.0,Occasional,High School
+STU1056,Dev Gupta,Female,11,Social Studies,78.7,90.9,2.6,Occasional,Bachelor's
+STU1101,Zara Kumar,Female,12,Science,58.7,67.8,0.5,Occasional,High School
+STU1122,Aryan Rao,Female,10,Mathematics,60.9,92.8,2.1,Regular,High School
+STU1221,Dev Desai,Female,11,Science,66.4,64.0,5.5,Regular,High School
+STU1103,Anika Gupta,Female,12,English,95.7,93.3,3.7,None,High School
+STU1113,Ishaan Sharma,Female,9,Mathematics,78.0,82.6,3.9,Regular,PhD
+STU1021,Zara Nair,Male,10,Computer Science,76.7,83.5,3.3,Occasional,Bachelor's
+STU1261,Aarohi Reddy,Female,9,English,62.6,65.1,1.4,Occasional,Bachelor's
+STU1024,Anika Sharma,Male,12,English,96.9,79.7,6.3,Regular,High School
+STU1086,Meera Singh,Female,9,Mathematics,,100.0,0.7,Occasional,High School
+STU1056,Dev Gupta,Female,11,Mathematics,81.5,90.9,2.6,Occasional,Bachelor's
+STU1195,Vivaan Kapoor,Male,11,Social Studies,96.4,98.4,5.7,Occasional,PhD
+STU1180,Dev Reddy,Female,10,Science,86.0,78.0,4.5,Regular,PhD
+STU1240,Rohan Kumar,Female,12,Social Studies,82.7,87.0,5.1,Regular,Master's
+STU1097,Aadhya Joshi,Male,11,Social Studies,86.9,88.1,7.7,Occasional,Bachelor's
+STU1159,Arjun Iyer,Female,11,Social Studies,78.1,64.7,3.3,Occasional,High School
+STU1258,Zara Reddy,Male,12,Social Studies,70.8,92.3,2.9,None,Master's
+STU1175,Riya Kumar,Female,12,Mathematics,90.7,87.0,6.3,None,High School
+STU1216,Priya Iyer,Female,9,English,91.4,97.7,2.1,Occasional,Bachelor's
+STU1149,Saanvi Sharma,Female,12,Science,77.1,70.8,3.3,Regular,Master's
+STU1148,Rohan Joshi,Female,10,English,90.7,95.2,2.5,Regular,High School
+STU1226,Riya Patel,Female,10,Mathematics,85.6,80.9,4.3,REGULAR  ,Bachelor's
+STU1013,Kabir Iyer,Female,12,English,77.3,90.0,4.9,Occasional,Master's
+STU1126,Sai Desai,Female,12,Mathematics,74.2,100.0,6.9,None,Bachelor's
+STU1134,Aditya Reddy,Male,12,Social Studies,73.9,82.5,2.0,Occasional,Bachelor's
+STU1164,Aarav Iyer,Male,10,Mathematics,81.5,76.6,6.3,None,High School
+STU1295,Simran Rao,Female,12,Mathematics,72.5,86.8,2.7,Occasional,High School
+STU1180,Dev Reddy,Female,10,English,92.6,78.0,4.5,Regular,PhD
+STU1117,Myra Mehta,Female,11,Science,77.7,75.1,3.5,None,High School
+STU1082,Rohan Singh,Female,10,Computer Science,74.9,85.5,1.9,None,High School
+STU1074,Ananya Chopra,Female,9,English,77.4,86.8,3.2,None,High School
+STU1214,Simran Patel,Female,12,Social Studies,100.0,100.0,5.1,Occasional,Bachelor's
+STU1083,Sai Kumar,Female,9,Science,100.0,93.4,5.2,Occasional,High School
+STU1063,Neha Patel,Male,11,Social Studies,90.8,81.3,6.4,None,High School
+STU1289,Myra Reddy,Male,9,Mathematics,66.4,75.0,5.9,None,Bachelor's
+STU1280,Ira Nair,Male,9,Social Studies,67.2,85.1,3.9,None,Bachelor's
+STU1114,Aryan Singh,Male,11,Science,91.7,83.4,5.3,None,Master's
+STU1218,Meera Sharma,Female,9,Social Studies,83.9,81.5,0.3,Occasional,Master's
+STU1026,Aadhya Chopra,Female,10,English,75.6,85.9,0.7,Occasional,Bachelor's
+STU1140,Tanvi Sharma,Female,11,Mathematics,82.4,97.2,6.0,Occasional,High School
+STU1264,Yash Reddy,Female,9,English,96.8,87.9,6.9,Regular,High School
+STU1083,Sai Kumar,Female,9,Mathematics,100.0,93.4,5.2,Occasional,High School
+STU1094,Aarav Singh,Female,10,Science,73.3,67.5,5.5,Occasional,Bachelor's
+STU1257,Simran Patel,Female,9,Science,59.2,71.1,4.1,None,High School
+STU1246,Aryan Chopra,Male,9,Mathematics,83.2,82.8,4.2,None,Bachelor's
+STU1089,Rohan Mehta,Female,9,Mathematics,85.6,100.0,1.2,None,Bachelor's
+STU1025,Kiara Nair,Male,11,Mathematics,93.8,80.9,4.6,Occasional,Bachelor's
+STU1093,Aarav Kumar,Male,12,Mathematics,89.6,77.7,5.2,None,Master's
+STU1218,Meera Sharma,Female,9,Computer Science,77.2,81.5,0.3,Occasional,Master's
+STU1277,Riya Patel,Male,12,English,86.2,82.2,1.6,Occasional,High School
+STU1111,Arjun Chopra,Female,9,Social Studies,77.6,80.3,2.9,Occasional,High School
+STU1278,Aryan Verma,Female,11,English,98.8,100.0,4.3,Occasional,Bachelor's
+STU1077,Reyansh Chopra,Male,9,Science,75.2,93.8,2.6,Occasional,High School
+STU1057,Kabir Kapoor,Male,11,Computer Science,67.6,65.0,1.7,None,Master's
+STU1176,Aditya Chopra,Male,9,Social Studies,86.9,83.7,6.5,Occasional,High School
+STU1224,Kiara Singh,Female,10,English,100.0,90.7,5.2,None,Bachelor's
+STU1180,Dev Reddy,Female,10,Social Studies,82.6,78.0,4.5,Regular,PhD
+STU1010,Sai Reddy,Male,11,Social Studies,84.1,96.1,2.6,None,High School
+STU1288,Dev Nair,Male,9,Social Studies,100.0,100.0,5.0,Occasional,High School
+STU1151,Saanvi Rao,Female,10,Mathematics,89.7,81.4,4.0,None,High School
+STU1237,Aarohi Sharma,Female,10,Computer Science,83.0,82.9,2.3,Occasional,Bachelor's
+STU1146,Vihaan Reddy,Female,9,English,,73.8,1.9,Occasional,PhD
+STU1008,Ishaan Kapoor,Male,9,Mathematics,99.2,83.0,4.3,None,High School
+STU1067,Aditya Joshi,Male,10,Computer Science,72.0,78.9,5.4,Regular,Bachelor's
+STU1232,Sai Singh,Female,9,English,75.8,78.5,2.4,Regular,High School
+STU1175,Riya Kumar,Female,12,Computer Science,85.3,87.0,6.3,None,High School
+STU1224,Kiara Singh,Female,10,Computer Science,92.2,90.7,5.2,None,Bachelor's
+STU1131,Meera Verma,Female,10,Social Studies,93.1,100.0,3.6,Regular,Bachelor's
+STU1016,Simran Rao,Female,10,Social Studies,98.8,97.6,5.4,None,Master's
+STU1023,Vihaan Rao,Male,10,Mathematics,85.9,94.8,5.0,Regular,Bachelor's
+STU1293,Sai Gupta,Female,11,Science,77.6,75.0,4.1,Occasional,Bachelor's
+STU1231,Myra Patel,Male,12,Science,90.1,85.5,3.0,Occasional,Bachelor's
+STU1260,Tanvi Singh,Male,12,Science,80.1,91.5,5.2,Occasional,Master's
+STU1272,Ananya Desai,Male,10,Social Studies,84.1,84.2,2.0,None,Master's
+STU1134,Aditya Reddy,Male,12,English,65.2,82.5,2.0,Occasional,Bachelor's
+STU1054,Dev Gupta,Male,12,Mathematics,96.7,78.4,2.5,None,Master's
+STU1186,Vivaan Kumar,Male,11,Mathematics,100.0,82.8,4.2,None,High School
+STU1261,Aarohi Reddy,Female,9,Mathematics,62.4,65.1,1.4,Occasional,Bachelor's
+STU1167,Aadhya Iyer,Male,12,Social Studies,100.0,76.7,6.7,Occasional,High School
+STU1290,Myra Joshi,Male,11,Science,86.1,86.1,0.8,None,High School
+STU1075,Aarohi Kumar,Male,12,English,85.3,100.0,0.8,Occasional,High School
+STU1108,Aadhya Reddy,Female,9,Science,62.5,89.2,2.1,Occasional,High School
+STU1019,Saanvi Verma,Female,10,Science,62.2,79.7,5.0,Regular,High School
+STU1263,Tanvi Iyer,Female,10,Social Studies,96.1,87.2,6.9,Occasional,High School
+STU1092,Anika Sharma,Female,12,Computer Science,78.8,88.3,2.8,Regular,Master's
+STU1274,Vihaan Sharma,Female,11,Science,65.1,81.9,2.1,None,Bachelor's
+STU1201,Riya Chopra,Female,11,Social Studies,71.7,75.6,4.7,Regular,High School
+STU1009,Aryan Patel,Male,12,Social Studies,95.0,84.6,7.9,None,Master's
+STU1155,Sai Sharma,Male,12,Computer Science,75.1,71.6,5.6,Regular,High School
+STU1224,Kiara Singh,Female,10,Mathematics,100.0,90.7,5.2,None,Bachelor's
+STU1211,Aarohi Gupta,Male,10,Social Studies,87.9,84.5,1.2,Occasional,Bachelor's
+STU1030,Tanvi Mehta,Male,9,Social Studies,74.9,84.4,2.6,None,High School
+STU1047,Kiara Sharma,Male,9,English,80.8,95.7,2.0,None,Master's
+STU1010,Sai Reddy,Male,11,Computer Science,77.1,96.1,2.6,None,High School
+STU1078,Riya Verma,Male,10,Computer Science,67.9,87.9,4.3,Regular,High School
+STU1024,Anika Sharma,Male,12,Social Studies,94.7,79.7,6.3,Regular,High School
+STU1071,Ishaan Singh,Male,11,Mathematics,88.6,91.5,3.8,Regular,High School
+STU1086,Meera Singh,Female,9,Science,94.4,100.0,0.7,Occasional,High School
+STU1026,Aadhya Chopra,Female,10,Computer Science,83.8,85.9,0.7,Occasional,Bachelor's
+STU1053,Sai Nair,Female,9,Social Studies,66.1,72.8,1.1,Occasional,Bachelor's
+STU1077,Reyansh Chopra,Male,9,Mathematics,79.3,93.8,2.6,Occasional,High School
+STU1019,Saanvi Verma,Female,10,English,62.3,79.7,5.0,Regular,High School
+STU1044,Arjun Kapoor,Male,11,Mathematics,83.8,85.6,2.3,None,Bachelor's
+STU1008,Ishaan Kapoor,Male,9,Science,97.6,83.0,4.3,None,High School
+STU1203,Ananya Kumar,Male,9,Mathematics,94.7,80.0,2.9,Regular,Master's
+STU1161,Neha Gupta,Female,9,Science,88.4,99.3,1.4,Regular,Master's
+STU1174,Vihaan Rao,Female,10,Mathematics,88.2,76.3,5.4,Regular,Bachelor's
+STU1102,Aadhya Iyer,Female,9,Social Studies,70.9,72.8,2.5,None,Master's
+STU1222,Neha Iyer,Female,11,Computer Science,76.7,68.2,0.8,Occasional,Master's
+STU1158,Vihaan Gupta,Male,12,Science,78.0,91.8,2.6,Regular,Bachelor's
+STU1121,Aarav Iyer,Female,11,Science,69.2,88.1,1.8,Regular,Bachelor's
+STU1002,Ira Patel,Male,9,English,94.1,96.4,2.4,None,High School
+STU1100,Anika Gupta,Female,10,Computer Science,85.2,88.7,1.4,Occasional,Bachelor's
+STU1295,Simran Rao,Female,12,Computer Science,79.3,86.8,2.7,Occasional,High School
+STU1145,Aryan Mehta,Female,11,Social Studies,72.6,80.8,3.9,None,High School
+STU1256,Kabir Singh,Male,10,Science,36.3,77.7,0.0,Regular,High School
+STU1130,Aadhya Kumar,Male,10,English,63.6,76.6,4.3,None,PhD
+STU1162,Saanvi Desai,Female,9,Mathematics,91.0,80.3,3.5,Occasional,PhD
+STU1018,Priya Rao,Female,9,Science,92.0,98.1,2.7,None,High School
+STU1287,Priya Singh,Female,9,Computer Science,69.6,78.6,4.1,None,Bachelor's
+STU1265,Aadhya Patel,Male,10,Social Studies,99.4,93.0,6.1,None,Master's
+STU1275,Vihaan Nair,Male,11,Computer Science,94.9,99.4,3.8,Regular,PhD
+STU1190,Ishaan Desai,Female,10,Science,100.0,100.0,2.9,Regular,Bachelor's
+STU1123,Aditya Rao,Male,10,English,83.6,99.0,4.1,Occasional,Bachelor's
+STU1266,Krishna Joshi,Female,11,English,87.1,87.1,1.4,None,Master's
+STU1203,Ananya Kumar,Male,9,English,96.6,80.0,2.9,Regular,Master's
+STU1217,Ananya Desai,Female,9,Social Studies,63.3,63.2,4.7,None,Bachelor's
+STU1282,Ishaan Singh,Female,12,Science,70.3,,4.5,None,Bachelor's
+STU1044,Arjun Kapoor,Male,11,Computer Science,69.5,85.6,2.3,None,Bachelor's
+STU1067,Aditya Joshi,Male,10,Science,59.6,78.9,5.4,Regular,Bachelor's
+STU1046,Zara Gupta,Male,9,English,88.9,100.0,4.0,None,Master's
+STU1113,Ishaan Sharma,Female,9,Social Studies,65.0,82.6,3.9,Regular,PhD
+STU1111,Arjun Chopra,Female,9,Science,83.1,80.3,2.9,Occasional,High School
+STU1207,Aryan Nair,Female,11,Social Studies,79.8,80.3,3.5,Regular,Master's
+STU1093,Aarav Kumar,Male,12,Social Studies,90.1,77.7,5.2,None,Master's
+STU1177,Saanvi Gupta,Male,9,English,79.2,100.0,4.5,Occasional,Master's
+STU1127,Meera Nair,Female,9,English,95.3,95.9,3.1,Regular,Bachelor's
+STU1059,Ishaan Reddy,Female,11,English,100.0,88.6,6.4,None,Bachelor's
+STU1212,Neha Reddy,Female,9,Computer Science,81.5,77.5,5.5,Occasional,Bachelor's
+STU1214,Simran Patel,Female,12,Science,100.0,100.0,5.1,Occasional,Bachelor's
+STU1094,Aarav Singh,Female,10,Social Studies,76.6,67.5,5.5,Occasional,Bachelor's
+STU1138,Vivaan Reddy,Male,12,Science,69.9,74.9,4.5,Regular,High School
+STU1041,Vivaan Joshi,Female,11,Mathematics,70.1,80.7,3.0,Occasional,PhD
+STU1000,Reyansh Iyer,Male,11,Social Studies,93.2,88.8,1.5,None,Master's
+STU1189,Simran Verma,Male,10,Mathematics,86.6,65.9,2.6,Regular,Bachelor's
+STU1280,Ira Nair,Male,9,Mathematics,62.6,85.1,3.9,None,Bachelor's
+STU1276,Reyansh Chopra,Male,11,Mathematics,80.3,54.6,4.3,Occasional,Master's
+STU1212,Neha Reddy,Female,9,Social Studies,79.4,77.5,5.5,Occasional,Bachelor's
+STU1147,Aditya Singh,Female,11,Mathematics,100.0,96.6,0.0,Occasional,Bachelor's
+STU1213,Neha Singh,Female,11,Computer Science,69.2,82.7,5.2,Occasional,High School
+STU1252,Myra Patel,Male,9,Science,78.5,81.0,3.6,Occasional,PhD
+STU1156,Meera Desai,Male,10,Social Studies,53.0,97.9,2.8,None,High School
+STU1201,Riya Chopra,Female,11,Mathematics,64.2,75.6,4.7,Regular,High School
+STU1149,Saanvi Sharma,Female,12,English,75.7,70.8,3.3,Regular,Master's
+STU1243,Aarohi Singh,Male,11,Mathematics,100.0,71.4,1.8,None,Master's
+STU1143,Krishna Sharma,Female,9,English,81.8,94.6,6.8,Occasional,High School
+STU1299,Kiara Desai,Female,11,Mathematics,69.1,74.0,3.1,Occasional,Bachelor's
+STU1194,Riya Singh,Female,9,Science,73.2,71.8,1.7,None,Bachelor's
+STU1114,Aryan Singh,Male,11,English,84.9,83.4,5.3,None,Master's
+STU1124,Dev Iyer,Female,12,Mathematics,100.0,92.1,5.3,None,Bachelor's
+STU1137,Zara Kapoor,Male,11,English,87.1,87.0,4.1,Regular,High School
+STU1160,Ishaan Kapoor,Female,12,Mathematics,93.5,92.8,3.5,None,PhD
+STU1133,Kiara Singh,Female,9,Social Studies,100.0,100.0,5.0,NONE  ,Bachelor's
+STU1031,Arjun Patel,Female,9,English,92.4,77.6,5.4,Occasional,Master's
+STU1245,Aarohi Reddy,Female,11,Science,73.0,78.0,2.7,None,Bachelor's
+STU1259,Zara Joshi,Male,10,Mathematics,100.0,95.7,2.9,None,Bachelor's
+STU1092,Anika Sharma,Female,12,English,81.9,88.3,2.8,Regular,Master's
+STU1028,Neha Desai,Female,9,Mathematics,80.8,98.7,0.0,Regular,High School
+STU1032,Aditya Nair,Male,9,Mathematics,70.8,100.0,2.3,None,Master's
+STU1061,Vivaan Mehta,Female,11,Mathematics,98.7,82.3,6.1,None,High School
+STU1079,Anika Desai,Female,12,Mathematics,71.1,83.1,4.7,None,Bachelor's
+STU1079,Anika Desai,Female,12,Computer Science,64.3,83.1,4.7,None,Bachelor's
+STU1230,Aryan Chopra,Male,12,Social Studies,74.0,72.5,3.8,Regular,Bachelor's
+STU1239,Simran Mehta,Male,10,English,69.0,92.7,3.1,Regular,High School
+STU1249,Tanvi Kapoor,Female,9,Mathematics,68.1,78.5,2.9,Occasional,High School
+STU1251,Priya Kumar,Male,10,Science,82.3,83.9,2.8,None,Bachelor's
+STU1257,Simran Patel,Female,9,Mathematics,60.5,71.1,4.1,None,High School
+STU1151,Saanvi Rao,Female,10,Social Studies,87.5,81.4,4.0,None,High School
+STU1196,Rohan Kumar,Male,12,English,59.5,85.9,1.1,Regular,High School
+STU1109,Ira Nair,Male,10,English,74.3,78.2,5.8,None,Bachelor's
+STU1091,Yash Desai,Male,10,English,83.0,76.2,4.1,Occasional,High School
+STU1267,Myra Gupta,Female,10,Science,82.7,61.2,3.2,None,Bachelor's
+STU1095,Krishna Kapoor,Female,10,Social Studies,89.5,92.5,3.1,Occasional,Master's
+STU1222,Neha Iyer,Female,11,Social Studies,82.3,68.2,0.8,Occasional,Master's
+STU1277,Riya Patel,Male,12,Computer Science,77.4,82.2,1.6,Occasional,High School
+STU1217,Ananya Desai,Female,9,Science,64.8,63.2,4.7,None,Bachelor's
+STU1269,Krishna Rao,Female,12,Computer Science,82.2,96.1,2.2,None,High School
+STU1069,Neha Patel,Female,12,English,85.2,99.0,2.3,Regular,High School
+STU1089,Rohan Mehta,Female,9,Science,85.7,100.0,1.2,None,Bachelor's
+STU1268,Arjun Joshi,Female,12,English,99.9,77.5,4.9,Occasional,Bachelor's
+STU1075,Aarohi Kumar,Male,12,Computer Science,77.9,100.0,0.8,Occasional,High School
+STU1259,Zara Joshi,Male,10,Computer Science,87.2,95.7,2.9,None,Bachelor's
+STU1136,Aryan Gupta,Female,9,Computer Science,79.9,85.1,4.4,Occasional,Master's
+STU1233,Simran Mehta,Male,11,English,79.4,91.2,5.7,Regular,Master's
+STU1046,Zara Gupta,Male,9,Science,98.8,100.0,4.0,None,Master's
+STU1076,Zara Nair,Male,10,English,76.0,87.3,2.7,None,PhD
+STU1135,Kiara Kapoor,Female,10,English,80.3,77.3,1.0,Occasional,High School
+STU1014,Krishna Joshi,Male,10,English,74.4,99.1,6.0,Regular,Bachelor's
+STU1014,Krishna Joshi,Male,10,Mathematics,90.7,99.1,6.0,Regular,Bachelor's
+STU1153,Diya Verma,Female,11,Mathematics,83.0,80.7,5.4,Occasional,Bachelor's
+STU1034,Anika Verma,Female,10,Science,76.5,79.6,4.0,Occasional,Bachelor's
+STU1033,Aryan Reddy,Male,11,Social Studies,77.5,90.0,2.7,Regular,High School
+STU1098,Yash Sharma,Female,9,Social Studies,81.6,91.6,3.5,Regular,High School
+STU1117,Myra Mehta,Female,11,Mathematics,72.6,75.1,3.5,None,High School
+STU1203,Ananya Kumar,Male,9,Social Studies,84.5,80.0,2.9,Regular,Master's
+STU1054,Dev Gupta,Male,12,English,79.3,78.4,2.5,None,Master's
+STU1215,Priya Iyer,Male,11,Mathematics,84.0,76.4,4.6,Occasional,Bachelor's
+STU1084,Priya Desai,Male,11,Mathematics,70.8,87.5,2.8,None,Bachelor's
+STU1018,Priya Rao,Female,9,Computer Science,100.0,98.1,2.7,None,High School
+STU1205,Kabir Chopra,Male,9,Science,73.1,86.6,3.2,Occasional,High School
+STU1239,Simran Mehta,Male,10,Mathematics,78.2,92.7,3.1,Regular,High School
+STU1008,Ishaan Kapoor,Male,9,English,88.4,83.0,4.3,None,High School
+STU1011,Anika Singh,Male,11,Science,75.0,94.8,6.3,None,High School
+STU1239,Simran Mehta,Male,10,Computer Science,75.8,92.7,3.1,Regular,High School
+STU1148,Rohan Joshi,Female,10,Mathematics,90.0,95.2,2.5,Regular,High School
+STU1007,Tanvi Mehta,Female,12,Social Studies,73.5,76.6,4.1,Occasional,Master's
+STU1061,Vivaan Mehta,Female,11,Science,99.2,82.3,6.1,None,High School
+STU1133,Kiara Singh,Female,9,Mathematics,100.0,100.0,5.0,None,Bachelor's
+STU1284,Aryan Patel,Female,10,Mathematics,69.6,94.9,2.4,Occasional,High School
+STU1081,Zara Verma,Female,11,Social Studies,85.7,94.4,1.4,None,Bachelor's
+STU1033,Aryan Reddy,Male,11,Science,79.5,90.0,2.7,Regular,High School
+STU1106,Priya Iyer,Female,11,Computer Science,83.5,100.0,4.2,Occasional,High School
+STU1174,Vihaan Rao,Female,10,Science,87.8,76.3,5.4,Regular,Bachelor's
+STU1285,Tanvi Gupta,Female,9,English,62.4,78.0,3.7,None,High School
+STU1214,Simran Patel,Female,12,Mathematics,100.0,100.0,5.1,Occasional,Bachelor's
+STU1283,Diya Desai,Male,10,English,92.1,79.5,2.1,Occasional,Bachelor's
+STU1139,Aryan Sharma,Male,12,Social Studies,78.9,74.2,6.2,Regular,Bachelor's
+STU1297,Simran Gupta,Female,9,Mathematics,81.3,99.3,5.0,Occasional,High School
+STU1063,Neha Patel,Male,11,Science,80.0,81.3,6.4,None,High School
+STU1183,Anika Chopra,Female,9,Social Studies,84.8,70.5,5.3,None,Bachelor's
+STU1263,Tanvi Iyer,Female,10,Science,88.7,87.2,6.9,Occasional,High School
+STU1103,Anika Gupta,Female,12,Science,99.6,93.3,3.7,None,High School
+STU1157,Saanvi Verma,Male,10,Computer Science,76.8,97.7,4.2,Regular,High School
+STU1106,Priya Iyer,Female,11,Social Studies,80.1,100.0,4.2,Occasional,High School
+STU1141,Anika Gupta,Male,10,Social Studies,80.8,83.4,5.5,Occasional,Bachelor's
+STU1246,Aryan Chopra,Male,9,English,73.3,82.8,4.2,None,Bachelor's
+STU1159,Arjun Iyer,Female,11,Computer Science,75.3,64.7,3.3,Occasional,High School
+STU1109,Ira Nair,Male,10,Social Studies,77.6,78.2,5.8,None,Bachelor's
+STU1090,Tanvi Desai,Male,10,Social Studies,72.8,78.4,2.9,None,High School
+STU1245,Aarohi Reddy,Female,11,Mathematics,61.1,78.0,2.7,None,Bachelor's
+STU1134,Aditya Reddy,Male,12,Science,65.6,82.5,2.0,Occasional,Bachelor's
+STU1114,Aryan Singh,Male,11,Mathematics,89.5,83.4,5.3,None,Master's
+STU1257,Simran Patel,Female,9,English,57.6,71.1,4.1,None,High School
+STU1012,Ishaan Kumar,Male,11,Science,90.4,99.6,4.6,None,Master's
+STU1207,Aryan Nair,Female,11,English,87.6,80.3,3.5,Regular,Master's
+STU1107,Aditya Patel,Female,10,Science,83.4,91.4,4.0,Occasional,High School
+STU1297,Simran Gupta,Female,9,English,89.4,99.3,5.0,Occasional,High School
+STU1205,Kabir Chopra,Male,9,Mathematics,79.8,86.6,3.2,Occasional,High School
+STU1048,Kiara Desai,Male,9,Computer Science,75.8,88.0,3.8,None,Bachelor's
+STU1005,Aditya Mehta,Female,10,Mathematics,82.8,89.3,1.3,Occasional,Master's
+STU1044,Arjun Kapoor,Male,11,English,74.7,85.6,2.3,None,Bachelor's
+STU1223,Ananya Chopra,Female,11,Mathematics,100.0,100.0,4.8,None,Bachelor's
+STU1021,Zara Nair,Male,10,Mathematics,88.2,83.5,3.3,Occasional,Bachelor's
+STU1150,Vihaan Kapoor,Male,11,Science,76.6,75.2,3.8,Occasional,Bachelor's
+STU1101,Zara Kumar,Female,12,Computer Science,60.0,67.8,0.5,Occasional,High School
+STU1026,Aadhya Chopra,Female,10,Science,81.8,85.9,0.7,Occasional,Bachelor's
+STU1088,Neha Iyer,Female,11,Computer Science,79.0,84.0,4.2,None,High School
+STU1130,Aadhya Kumar,Male,10,Mathematics,59.3,76.6,4.3,None,PhD
+STU1101,Zara Kumar,Female,12,Social Studies,49.0,67.8,0.5,Occasional,High School
+STU1015,Arjun Singh,Male,9,Mathematics,63.6,73.6,4.4,Occasional,Bachelor's
+STU1015,Arjun Singh,Male,9,Mathematics,63.6,73.6,4.4,Occasional,Bachelor's
+STU1007,Tanvi Mehta,Female,12,Science,75.0,76.6,4.1,Occasional,Master's
+STU1264,Yash Reddy,Female,9,Computer Science,100.0,87.9,6.9,Regular,High School
+STU1011,Anika Singh,Male,11,English,83.9,94.8,6.3,None,High School
+STU1039,Ananya Desai,Female,9,Science,77.5,74.5,4.3,None,Master's
+STU1288,Dev Nair,Male,9,English,100.0,100.0,5.0,Occasional,High School
+STU1143,Krishna Sharma,Female,9,Mathematics,67.9,94.6,6.8,Occasional,High School
+STU1169,Sai Singh,Female,11,Mathematics,82.5,55.7,4.7,Occasional,High School
+STU1133,Kiara Singh,Female,9,Computer Science,97.4,100.0,5.0,None,Bachelor's
+STU1095,Krishna Kapoor,Female,10,English,76.3,92.5,3.1,Occasional,Master's
+STU1017,Aarav Singh,Female,10,Science,63.5,71.2,3.5,Regular,Master's
+STU1112,Tanvi Joshi,Male,9,Science,77.9,73.8,3.5,None,Master's
+STU1066,Vivaan Gupta,Male,11,Computer Science,93.7,86.6,3.0,None,High School
+STU1277,Riya Patel,Male,12,Science,81.8,82.2,1.6,Occasional,High School
+STU1296,Aditya Joshi,Female,9,Computer Science,86.0,89.1,3.3,Occasional,High School
+STU1265,Aadhya Patel,Male,10,Mathematics,98.6,93.0,6.1,None,Master's
+STU1233,Simran Mehta,Male,11,Mathematics,73.3,91.2,5.7,Regular,Master's
+STU1234,Riya Iyer,Male,9,Mathematics,73.3,78.0,0.0,None,High School
+STU1107,Aditya Patel,Female,10,Social Studies,77.8,91.4,4.0,Occasional,High School
+STU1153,Diya Verma,Female,11,Social Studies,77.1,80.7,5.4,Occasional,Bachelor's
+STU1083,Sai Kumar,Female,9,Social Studies,100.0,93.4,5.2,Occasional,High School
+STU1191,Riya Nair,Male,9,Science,68.2,92.6,1.3,Occasional,Master's
+STU1281,Anika Mehta,Male,9,Mathematics,71.4,73.9,0.0,Regular,Master's
+STU1199,Vivaan Kapoor,Male,9,English,73.3,66.6,1.1,None,Bachelor's
+STU1114,Aryan Singh,Male,11,Social Studies,86.0,83.4,5.3,None,Master's
+STU1128,Neha Iyer,Male,10,English,69.4,73.6,1.8,Regular,High School
+STU1254,Diya Kumar,Female,10,Social Studies,84.2,78.8,3.7,None,High School
+STU1066,Vivaan Gupta,Male,11,English,94.7,86.6,3.0,None,High School
+STU1215,Priya Iyer,Male,11,Social Studies,87.3,76.4,4.6,Occasional,Bachelor's
+STU1114,Aryan Singh,Male,11,Computer Science,85.6,83.4,5.3,None,Master's
+STU1257,Simran Patel,Female,9,Social Studies,55.0,71.1,4.1,None,High School
+STU1274,Vihaan Sharma,Female,11,Computer Science,68.8,81.9,2.1,None,Bachelor's
+STU1219,Krishna Sharma,Male,11,Mathematics,95.8,96.8,4.3,Occasional,High School
+STU1273,Neha Rao,Male,10,Computer Science,53.4,78.2,0.0,None,High School
+STU1245,Aarohi Reddy,Female,11,English,78.0,78.0,2.7,None,Bachelor's
+STU1220,Saanvi Reddy,Female,10,English,99.3,95.7,4.6,Regular,Master's
+STU1235,Myra Patel,Female,10,Social Studies,80.0,99.1,3.1,Occasional,Bachelor's
+STU1001,Diya Kumar,Male,11,Social Studies,63.3,74.1,0.1,None,Bachelor's
+STU1271,Saanvi Kumar,Male,10,Mathematics,84.8,92.5,3.8,Regular,High School
+STU1258,Zara Reddy,Male,12,Science,70.8,92.3,2.9,None,Master's
+STU1256,Kabir Singh,Male,10,English,38.3,77.7,0.0,Regular,High School
+STU1204,Kiara Mehta,Female,10,Science,85.7,100.0,4.3,None,Bachelor's
+STU1226,Riya Patel,Female,10,Computer Science,80.9,80.9,4.3,Regular,Bachelor's
+STU1152,Ananya Sharma,Male,9,Mathematics,65.6,67.2,3.2,Regular,Bachelor's
+STU1014,Krishna Joshi,Male,10,Computer Science,85.0,99.1,6.0,Regular,Bachelor's
+STU1171,Ishaan Chopra,Female,9,Social Studies,73.0,92.5,3.2,Regular,Master's
+STU1104,Myra Rao,Female,10,English,72.4,99.8,2.2,Occasional,Bachelor's
+STU1067,Aditya Joshi,Male,10,Mathematics,69.6,78.9,5.4,Regular,Bachelor's
+STU1113,Ishaan Sharma,Female,9,Computer Science,76.7,82.6,3.9,Regular,PhD
+STU1118,Diya Gupta,Female,9,Mathematics,89.0,78.0,5.0,Regular,Bachelor's
+STU1017,Aarav Singh,Female,10,Social Studies,54.8,71.2,3.5,Regular,Master's
+STU1147,Aditya Singh,Female,11,Science,97.6,96.6,0.0,Occasional,Bachelor's
+STU1043,Kiara Joshi,Female,10,English,70.9,78.2,3.9,Regular,High School
+STU1275,Vihaan Nair,Male,11,English,92.5,99.4,3.8,Regular,PhD
+STU1034,Anika Verma,Female,10,Social Studies,89.1,79.6,4.0,Occasional,Bachelor's
+STU1276,Reyansh Chopra,Male,11,Social Studies,77.6,54.6,4.3,Occasional,Master's
+STU1044,Arjun Kapoor,Male,11,Science,82.2,85.6,2.3,None,Bachelor's
+STU1063,Neha Patel,Male,11,Computer Science,87.8,81.3,6.4,None,High School
+STU1261,Aarohi Reddy,Female,9,Computer Science,62.3,65.1,1.4,Occasional,Bachelor's
+STU1269,Krishna Rao,Female,12,Mathematics,85.5,96.1,2.2,None,High School
+STU1160,Ishaan Kapoor,Female,12,English,100.0,92.8,3.5,None,PhD
+STU1053,Sai Nair,Female,9,Science,69.5,72.8,1.1,Occasional,Bachelor's
+STU1001,Diya Kumar,Male,11,Science,66.4,74.1,0.1,None,Bachelor's
+STU1287,Priya Singh,Female,9,Social Studies,72.1,78.6,4.1,None,Bachelor's
+STU1027,Rohan Rao,Male,11,Social Studies,68.5,100.0,1.9,None,Bachelor's
+STU1032,Aditya Nair,Male,9,Social Studies,77.6,100.0,2.3,None,Master's
+STU1247,Anika Iyer,Male,9,English,74.9,73.4,1.7,None,Master's
+STU1118,Diya Gupta,Female,9,Computer Science,77.7,78.0,5.0,Regular,Bachelor's
+STU1283,Diya Desai,Male,10,Computer Science,87.0,79.5,2.1,Occasional,Bachelor's
+STU1265,Aadhya Patel,Male,10,English,100.0,93.0,6.1,None,Master's
+STU1255,Simran Joshi,Male,11,Computer Science,66.1,95.2,4.3,Regular,High School
+STU1285,Tanvi Gupta,Female,9,Computer Science,77.0,78.0,3.7,None,High School
+STU1104,Myra Rao,Female,10,Social Studies,78.2,99.8,2.2,Occasional,Bachelor's
+STU1191,Riya Nair,Male,9,Mathematics,65.5,92.6,1.3,Occasional,Master's
+STU1163,Neha Kapoor,Male,11,Science,87.5,78.6,2.3,Occasional,PhD
+STU1115,Krishna Rao,Male,10,Social Studies,66.4,72.1,2.5,Regular,PhD
+STU1248,Priya Mehta,Female,12,English,51.5,76.5,1.0,None,Bachelor's
+STU1003,Rohan Iyer,Female,9,Computer Science,83.2,93.9,0.0,Regular,PhD
+STU1227,Kabir Kapoor,Female,12,Social Studies,73.5,100.0,4.3,Occasional,High School
+STU1126,Sai Desai,Female,12,Social Studies,77.7,100.0,6.9,None,Bachelor's
+STU1152,Ananya Sharma,Male,9,English,67.4,67.2,3.2,Regular,Bachelor's
+STU1123,Aditya Rao,Male,10,Social Studies,85.7,99.0,4.1,Occasional,Bachelor's
+STU1267,Myra Gupta,Female,10,Mathematics,74.2,61.2,3.2,None,Bachelor's
+STU1131,Meera Verma,Female,10,Mathematics,96.6,100.0,3.6,Regular,Bachelor's
+STU1217,Ananya Desai,Female,9,Mathematics,59.4,63.2,4.7,None,Bachelor's
+STU1187,Kabir Chopra,Female,11,Science,79.9,77.9,2.4,None,Master's
+STU1027,Rohan Rao,Male,11,English,77.6,100.0,1.9,None,Bachelor's
+STU1111,Arjun Chopra,Female,9,English,77.0,80.3,2.9,Occasional,High School
+STU1246,Aryan Chopra,Male,9,Science,85.9,82.8,4.2,None,Bachelor's
+STU1176,Aditya Chopra,Male,9,Science,85.4,83.7,6.5,Occasional,High School
+STU1172,Yash Singh,Male,12,Social Studies,73.6,68.6,5.4,None,Master's
+STU1270,Vivaan Joshi,Male,12,English,96.4,98.1,6.5,None,Bachelor's
+STU1073,Sai Singh,Male,12,Social Studies,90.4,89.9,4.3,Regular,Bachelor's
+STU1282,Ishaan Singh,Female,12,Computer Science,71.3,85.7,4.5,None,Bachelor's
+STU1190,Ishaan Desai,Female,10,Computer Science,94.1,100.0,2.9,Regular,Bachelor's
+STU1065,Ira Singh,Female,11,English,82.2,85.3,2.4,Occasional,PhD
+STU1063,Neha Patel,Male,11,English,84.6,81.3,6.4,None,High School
+STU1228,Simran Iyer,Female,10,Computer Science,74.4,75.7,3.3,Occasional,PhD
+STU1221,Dev Desai,Female,11,Computer Science,61.7,64.0,5.5,Regular,High School
+STU1105,Reyansh Sharma,Male,12,Social Studies,56.8,76.8,3.9,None,Bachelor's
+STU1105,Reyansh Sharma,Male,12,Science,59.8,76.8,3.9,None,Bachelor's
+STU1017,Aarav Singh,Female,10,English,61.0,71.2,3.5,Regular,Master's
+STU1095,Krishna Kapoor,Female,10,Computer Science,73.5,92.5,3.1,Occasional,Master's
+STU1067,Aditya Joshi,Male,10,Social Studies,63.7,78.9,5.4,Regular,Bachelor's
+STU1151,Saanvi Rao,Female,10,English,86.5,81.4,4.0,None,High School
+STU1131,Meera Verma,Female,10,English,97.7,100.0,3.6,Regular,Bachelor's
+STU1029,Aarav Nair,Female,10,Social Studies,63.0,83.3,1.8,Occasional,Bachelor's
+STU1243,Aarohi Singh,Male,11,English,98.4,71.4,1.8,None,Master's
+STU1277,Riya Patel,Male,12,Social Studies,85.9,82.2,1.6,Occasional,High School
+STU1005,Aditya Mehta,Female,10,Social Studies,62.0,89.3,1.3,Occasional,Master's
+STU1049,Arjun Chopra,Male,12,Science,78.9,100.0,2.7,Occasional,Master's
+STU1073,Sai Singh,Male,12,Mathematics,97.9,89.9,4.3,Regular,Bachelor's
+STU1289,Myra Reddy,Male,9,Social Studies,81.3,75.0,5.9,None,Bachelor's
+STU1176,Aditya Chopra,Male,9,Mathematics,82.2,83.7,6.5,Occasional,High School
+STU1226,Riya Patel,Female,10,Science,77.9,80.9,4.3,Regular,Bachelor's
+STU1039,Ananya Desai,Female,9,Social Studies,71.9,74.5,4.3,None,Master's
+STU1232,Sai Singh,Female,9,Computer Science,74.9,78.5,2.4,Regular,High School
+STU1185,Ira Patel,Female,12,English,81.5,93.1,4.2,None,Bachelor's
+STU1080,Zara Kapoor,Male,9,Computer Science,70.9,66.0,4.2,None,Bachelor's
+STU1159,Arjun Iyer,Female,11,English,85.4,64.7,3.3,Occasional,High School
+STU1096,Aadhya Verma,Female,11,Social Studies,84.2,100.0,3.0,Regular,Bachelor's
+STU1031,Arjun Patel,Female,9,Social Studies,100.0,77.6,5.4,Occasional,Master's
+STU1063,Neha Patel,Male,11,Mathematics,89.4,81.3,6.4,None,High School
+STU1051,Priya Kumar,Female,11,Science,94.4,83.9,1.4,Regular,Master's
+STU1001,Diya Kumar,Male,11,English,58.9,74.1,0.1,None,Bachelor's
+STU1238,Ira Verma,Male,12,Social Studies,87.5,67.5,4.8,Occasional,PhD
+STU1076,Zara Nair,Male,10,Computer Science,80.2,87.3,2.7,None,PhD
+STU1035,Aarohi Mehta,Female,12,English,68.5,71.2,3.2,Occasional,High School
+STU1150,Vihaan Kapoor,Male,11,Computer Science,84.7,75.2,3.8,Occasional,Bachelor's
+STU1062,Aryan Nair,Female,9,Computer Science,77.4,86.7,1.3,Regular,High School
+STU1071,Ishaan Singh,Male,11,English,81.8,91.5,3.8,Regular,High School
+STU1059,Ishaan Reddy,Female,11,Social Studies,95.8,88.6,6.4,None,Bachelor's
+STU1091,Yash Desai,Male,10,Mathematics,81.9,76.2,4.1,Occasional,High School
+STU1108,Aadhya Reddy,Female,9,Social Studies,65.0,89.2,2.1,Occasional,High School
+STU1132,Rohan Verma,Female,12,English,76.4,97.0,2.0,Regular,Bachelor's
+STU1119,Aryan Reddy,Male,9,Science,86.8,83.9,4.4,None,PhD
+STU1275,Vihaan Nair,Male,11,Science,95.8,99.4,3.8,Regular,PhD
+STU1181,Reyansh Sharma,Male,12,Mathematics,69.7,81.2,1.2,Regular,Bachelor's
+STU1105,Reyansh Sharma,Male,12,English,51.5,76.8,3.9,None,Bachelor's
+STU1251,Priya Kumar,Male,10,English,80.0,,2.8,None,Bachelor's
+STU1031,Arjun Patel,Female,9,Computer Science,96.0,,5.4,Occasional,Master's
+STU1187,Kabir Chopra,Female,11,Mathematics,79.2,77.9,2.4,None,Master's
+STU1072,Priya Verma,Female,9,Mathematics,53.1,87.7,2.6,Regular,High School
+STU1264,Yash Reddy,Female,9,Social Studies,97.6,87.9,6.9,Regular,High School
+STU1040,Neha Sharma,Male,12,English,85.0,69.3,5.9,Occasional,Bachelor's
+STU1183,Anika Chopra,Female,9,Mathematics,79.5,70.5,5.3,None,Bachelor's
+STU1155,Sai Sharma,Male,12,English,83.3,71.6,5.6,Regular,High School
+STU1022,Simran Iyer,Female,12,English,86.6,100.0,2.4,Occasional,Bachelor's
+STU1178,Ishaan Kapoor,Female,10,Social Studies,62.2,83.1,1.5,Regular,High School
+STU1061,Vivaan Mehta,Female,11,English,97.2,82.3,6.1,None,High School
+STU1170,Zara Kumar,Male,12,Science,72.1,86.7,2.7,None,Master's
+STU1084,Priya Desai,Male,11,English,75.0,87.5,2.8,None,Bachelor's
+STU1181,Reyansh Sharma,Male,12,Science,71.1,81.2,1.2,Regular,Bachelor's
+STU1248,Priya Mehta,Female,12,Mathematics,58.1,76.5,1.0,None,Bachelor's
+STU1189,Simran Verma,Male,10,Social Studies,71.0,65.9,2.6,Regular,Bachelor's
+STU1091,Yash Desai,Male,10,Computer Science,85.8,76.2,4.1,Occasional,High School
+STU1196,Rohan Kumar,Male,12,Social Studies,64.1,85.9,1.1,Regular,High School
+STU1259,Zara Joshi,Male,10,Social Studies,89.0,95.7,2.9,None,Bachelor's
+STU1242,Kabir Singh,Male,10,English,92.9,93.6,3.0,Occasional,Bachelor's
+STU1184,Ananya Singh,Male,9,English,79.8,96.5,2.1,None,Bachelor's
+STU1089,Rohan Mehta,Female,9,Computer Science,89.5,100.0,1.2,None,Bachelor's
+STU1239,Simran Mehta,Male,10,Science,84.4,92.7,3.1,Regular,High School
+STU1135,Kiara Kapoor,Female,10,Computer Science,72.9,77.3,1.0,Occasional,High School
+STU1138,Vivaan Reddy,Male,12,English,82.6,74.9,4.5,Regular,High School
+STU1199,Vivaan Kapoor,Male,9,Computer Science,69.9,66.6,1.1,None,Bachelor's
+STU1016,Simran Rao,Female,10,Mathematics,96.0,97.6,5.4,None,Master's
+STU1262,Rohan Desai,Male,10,English,85.5,88.9,5.4,None,High School
+STU1268,Arjun Joshi,Female,12,Social Studies,92.5,77.5,4.9,Occasional,Bachelor's
+STU1156,Meera Desai,Male,10,English,57.9,97.9,2.8,None,High School
+STU1043,Kiara Joshi,Female,10,Mathematics,58.7,78.2,3.9,Regular,High School
+STU1253,Saanvi Singh,Female,11,Science,76.6,82.7,3.0,Regular,Master's
+STU1006,Rohan Mehta,Male,11,Mathematics,88.6,97.5,0.9,Occasional,High School
+STU1048,Kiara Desai,Male,9,English,67.6,88.0,3.8,None,Bachelor's
+STU1299,Kiara Desai,Female,11,Computer Science,67.8,74.0,3.1,Occasional,Bachelor's
+STU1128,Neha Iyer,Male,10,Science,71.8,73.6,1.8,Regular,High School
+STU1139,Aryan Sharma,Male,12,Science,75.2,74.2,6.2,Regular,Bachelor's
+STU1041,Vivaan Joshi,Female,11,Computer Science,70.5,80.7,3.0,Occasional,PhD
+STU1167,Aadhya Iyer,Male,12,Mathematics,100.0,76.7,6.7,Occasional,High School
+STU1154,Reyansh Iyer,Male,12,Mathematics,85.5,90.2,3.2,Occasional,Master's
+STU1150,Vihaan Kapoor,Male,11,English,89.6,75.2,3.8,Occasional,Bachelor's
+STU1261,Aarohi Reddy,Female,9,Social Studies,65.6,65.1,1.4,Occasional,Bachelor's
+STU1087,Kiara Sharma,Male,10,Mathematics,83.8,78.4,6.0,Regular,Master's
+STU1263,Tanvi Iyer,Female,10,Mathematics,100.0,87.2,6.9,Occasional,High School
+STU1281,Anika Mehta,Male,9,English,67.2,73.9,0.0,Regular,Master's
+STU1219,Krishna Sharma,Male,11,English,81.6,96.8,4.3,Occasional,High School
+STU1274,Vihaan Sharma,Female,11,Mathematics,73.4,81.9,2.1,None,Bachelor's
+STU1137,Zara Kapoor,Male,11,Social Studies,77.1,87.0,4.1,Regular,High School
+STU1110,Reyansh Singh,Male,9,Science,72.0,67.2,5.2,Occasional,Bachelor's
+STU1108,Aadhya Reddy,Female,9,Computer Science,59.1,89.2,2.1,Occasional,High School
+STU1209,Dev Desai,Female,11,English,63.3,86.4,4.6,None,High School
+STU1210,Aarav Chopra,Female,10,Computer Science,81.4,96.1,4.1,Occasional,Bachelor's
+STU1173,Diya Desai,Male,10,Science,64.5,82.3,1.7,None,High School
+STU1224,Kiara Singh,Female,10,Science,100.0,90.7,5.2,None,Bachelor's
+STU1080,Zara Kapoor,Male,9,Social Studies,71.3,66.0,4.2,None,Bachelor's
+STU1296,Aditya Joshi,Female,9,Social Studies,96.1,89.1,3.3,Occasional,High School
+STU1072,Priya Verma,Female,9,English,53.7,87.7,2.6,Regular,High School
+STU1054,Dev Gupta,Male,12,Science,76.4,78.4,2.5,None,Master's
+STU1093,Aarav Kumar,Male,12,Science,85.6,77.7,5.2,None,Master's
+STU1268,Arjun Joshi,Female,12,Mathematics,88.9,77.5,4.9,Occasional,Bachelor's
+STU1220,Saanvi Reddy,Female,10,Computer Science,95.6,95.7,4.6,Regular,Master's
+STU1195,Vivaan Kapoor,Male,11,Mathematics,94.6,98.4,5.7,Occasional,PhD
+STU1055,Aarav Singh,Male,11,English,69.7,95.0,3.9,None,PhD
+STU1267,Myra Gupta,Female,10,Social Studies,81.1,61.2,3.2,None,Bachelor's
+STU1285,Tanvi Gupta,Female,9,Mathematics,78.0,78.0,3.7,None,High School
+STU1250,Zara Rao,Female,10,Science,91.3,100.0,2.6,Occasional,High School
+STU1088,Neha Iyer,Female,11,Science,80.4,84.0,4.2,None,High School
+STU1198,Kiara Verma,Female,9,English,79.3,97.2,5.6,Occasional,High School
+STU1157,Saanvi Verma,Male,10,Science,89.5,97.7,4.2,Regular,High School
+STU1232,Sai Singh,Female,9,Mathematics,77.9,78.5,2.4,Regular,High School
+STU1088,Neha Iyer,Female,11,English,78.4,84.0,4.2,None,High School
+STU1059,Ishaan Reddy,Female,11,Computer Science,99.6,88.6,6.4,None,Bachelor's
+STU1235,Myra Patel,Female,10,Computer Science,84.3,99.1,3.1,Occasional,Bachelor's
+STU1075,Aarohi Kumar,Male,12,Mathematics,83.1,100.0,0.8,Occasional,High School
+STU1205,Kabir Chopra,Male,9,English,72.6,86.6,3.2,Occasional,High School
+STU1224,Kiara Singh,Female,10,Social Studies,100.0,90.7,5.2,None,Bachelor's
+STU1234,Riya Iyer,Male,9,Computer Science,84.5,78.0,0.0,None,High School
+STU1198,Kiara Verma,Female,9,Social Studies,78.3,97.2,5.6,Occasional,High School
+STU1094,Aarav Singh,Female,10,English,57.0,67.5,5.5,Occasional,Bachelor's
+STU1177,Saanvi Gupta,Male,9,Mathematics,70.6,100.0,4.5,Occasional,Master's
+STU1112,Tanvi Joshi,Male,9,Social Studies,68.7,73.8,3.5,None,Master's
+STU1272,Ananya Desai,Male,10,English,68.9,84.2,2.0,None,Master's
+STU1150,Vihaan Kapoor,Male,11,Mathematics,86.4,75.2,3.8,Occasional,Bachelor's
+STU1077,Reyansh Chopra,Male,9,Social Studies,84.6,93.8,2.6,Occasional,High School
+STU1004,Tanvi Mehta,Female,9,English,,95.7,4.5,Occasional,High School
+STU1165,Sai Mehta,Female,10,Social Studies,73.7,90.1,4.6,Occasional,Master's
+STU1024,Anika Sharma,Male,12,Computer Science,95.8,79.7,6.3,Regular,High School
+STU1084,Priya Desai,Male,11,Social Studies,69.5,87.5,2.8,None,Bachelor's
+STU1154,Reyansh Iyer,Male,12,Social Studies,95.8,90.2,3.2,Occasional,Master's
+STU1269,Krishna Rao,Female,12,Social Studies,85.0,96.1,2.2,None,High School
+STU1094,Aarav Singh,Female,10,Mathematics,78.8,67.5,5.5,Occasional,Bachelor's
+STU1144,Aarohi Kapoor,Female,11,Science,77.8,100.0,4.1,Occasional,High School
+STU1262,Rohan Desai,Male,10,Social Studies,77.5,88.9,5.4,None,High School
+STU1252,Myra Patel,Male,9,Computer Science,69.9,81.0,3.6,Occasional,PhD
+STU1028,Neha Desai,Female,9,English,86.3,98.7,0.0,Regular,High School
+STU1010,Sai Reddy,Male,11,Mathematics,74.0,96.1,2.6,None,High School
+STU1280,Ira Nair,Male,9,English,80.4,85.1,3.9,None,Bachelor's
+STU1209,Dev Desai,Female,11,Social Studies,80.4,86.4,4.6,None,High School
+STU1124,Dev Iyer,Female,12,Social Studies,99.3,92.1,5.3,None,Bachelor's
+STU1218,Meera Sharma,Female,9,Mathematics,82.2,81.5,0.3,Occasional,Master's
+STU1016,Simran Rao,Female,10,Science,95.7,97.6,5.4,None,Master's
+STU1140,Tanvi Sharma,Female,11,Social Studies,82.3,97.2,6.0,Occasional,High School
+STU1096,Aadhya Verma,Female,11,English,84.0,100.0,3.0,Regular,Bachelor's
+STU1064,Arjun Reddy,Female,10,Science,82.2,93.8,4.0,Occasional,PhD
+STU1250,Zara Rao,Female,10,Social Studies,100.0,100.0,2.6,Occasional,High School
+STU1101,Zara Kumar,Female,12,Mathematics,62.7,67.8,0.5,Occasional,High School
+STU1285,Tanvi Gupta,Female,9,Social Studies,75.2,78.0,3.7,None,High School
+STU1168,Aryan Reddy,Male,11,Science,71.4,79.9,0.0,Regular,Bachelor's
+STU1013,Kabir Iyer,Female,12,Science,87.5,90.0,4.9,Occasional,Master's
+STU1273,Neha Rao,Male,10,Social Studies,60.5,78.2,0.0,None,High School
+STU1184,Ananya Singh,Male,9,Science,94.6,96.5,2.1,None,Bachelor's
+STU1265,Aadhya Patel,Male,10,Computer Science,96.2,93.0,6.1,None,Master's
+STU1160,Ishaan Kapoor,Female,12,Science,84.3,92.8,3.5,None,PhD
+STU1171,Ishaan Chopra,Female,9,Science,84.1,92.5,3.2,Regular,Master's
+STU1006,Rohan Mehta,Male,11,Science,78.7,97.5,0.9,Occasional,High School
+STU1159,Arjun Iyer,Female,11,Mathematics,77.0,64.7,3.3,Occasional,High School
+STU1083,Sai Kumar,Female,9,English,94.3,93.4,5.2,Occasional,High School
+STU1126,Sai Desai,Female,12,English,67.4,100.0,6.9,None,Bachelor's
+STU1215,Priya Iyer,Male,11,English,85.7,76.4,4.6,Occasional,Bachelor's
+STU1012,Ishaan Kumar,Male,11,Computer Science,83.1,99.6,4.6,None,Master's
+STU1027,Rohan Rao,Male,11,Computer Science,77.8,100.0,1.9,None,Bachelor's
+STU1242,Kabir Singh,Male,10,Mathematics,90.6,93.6,3.0,Occasional,Bachelor's
+STU1278,Aryan Verma,Female,11,Social Studies,100.0,100.0,4.3,Occasional,Bachelor's
+STU1015,Arjun Singh,Male,9,English,64.3,73.6,4.4,Occasional,Bachelor's
+STU1098,Yash Sharma,Female,9,Science,80.4,91.6,3.5,Regular,High School
+STU1269,Krishna Rao,Female,12,English,85.4,96.1,2.2,None,High School
+STU1228,Simran Iyer,Female,10,Mathematics,63.9,75.7,3.3,Occasional,PhD
+STU1106,Priya Iyer,Female,11,English,82.0,100.0,4.2,Occasional,High School
+STU1013,Kabir Iyer,Female,12,Mathematics,85.6,90.0,4.9,Occasional,Master's
+STU1253,Saanvi Singh,Female,11,Mathematics,87.3,82.7,3.0,Regular,Master's
+STU1182,Arjun Joshi,Male,9,English,91.7,89.1,2.1,None,Bachelor's
+STU1252,Myra Patel,Male,9,Mathematics,69.2,81.0,3.6,Occasional,PhD
+STU1059,Ishaan Reddy,Female,11,Science,100.0,88.6,6.4,None,Bachelor's
+STU1118,Diya Gupta,Female,9,Science,82.2,78.0,5.0,Regular,Bachelor's
+STU1083,Sai Kumar,Female,9,Computer Science,98.0,93.4,5.2,Occasional,High School
+STU1153,Diya Verma,Female,11,English,71.5,80.7,5.4,Occasional,Bachelor's
+STU1087,Kiara Sharma,Male,10,Social Studies,81.8,78.4,6.0,Regular,Master's
+STU1052,Kabir Rao,Male,11,Science,88.6,85.9,5.0,None,Bachelor's
+STU1195,Vivaan Kapoor,Male,11,English,100.0,98.4,5.7,Occasional,PhD
+STU1144,Aarohi Kapoor,Female,11,Computer Science,75.7,100.0,4.1,Occasional,High School
+STU1278,Aryan Verma,Female,11,Science,95.9,100.0,4.3,Occasional,Bachelor's
+STU1056,Dev Gupta,Female,11,Science,72.7,90.9,2.6,Occasional,Bachelor's
+STU1125,Vihaan Kapoor,Male,9,Science,86.1,90.8,4.9,None,Bachelor's
+STU1206,Dev Kumar,Male,9,Computer Science,61.5,91.6,4.4,None,Bachelor's
+STU1255,Simran Joshi,Male,11,Science,71.8,95.2,4.3,Regular,High School
+STU1290,Myra Joshi,Male,11,Computer Science,89.4,86.1,0.8,None,High School
+STU1037,Arjun Kumar,Female,10,Social Studies,61.0,70.4,2.6,None,Master's
+STU1241,Zara Gupta,Female,9,Social Studies,58.1,89.2,2.4,Regular,Bachelor's
+STU1050,Krishna Patel,Male,10,Science,77.6,71.5,4.0,Occasional,PhD
+STU1116,Aarohi Desai,Female,12,Social Studies,86.5,83.6,3.1,Regular,High School
+STU1207,Aryan Nair,Female,11,Computer Science,88.7,80.3,3.5,Regular,Master's
+STU1271,Saanvi Kumar,Male,10,Computer Science,84.6,92.5,3.8,Regular,High School
+STU1194,Riya Singh,Female,9,Mathematics,62.4,71.8,1.7,None,Bachelor's
+STU1102,Aadhya Iyer,Female,9,Computer Science,72.5,72.8,2.5,None,Master's
+STU1185,Ira Patel,Female,12,Social Studies,83.1,93.1,4.2,None,Bachelor's
+STU1190,Ishaan Desai,Female,10,Social Studies,100.0,100.0,2.9,Regular,Bachelor's
+STU1284,Aryan Patel,Female,10,Science,82.8,94.9,2.4,Occasional,High School
+STU1141,Anika Gupta,Male,10,Science,72.6,83.4,5.5,Occasional,Bachelor's
+STU1097,Aadhya Joshi,Male,11,English,96.2,88.1,7.7,Occasional,Bachelor's
+STU1132,Rohan Verma,Female,12,Social Studies,81.1,97.0,2.0,Regular,Bachelor's
+STU1227,Kabir Kapoor,Female,12,Computer Science,78.0,100.0,4.3,Occasional,High School
+STU1287,Priya Singh,Female,9,Science,59.7,78.6,4.1,None,Bachelor's
+STU1054,Dev Gupta,Male,12,Social Studies,83.5,78.4,2.5,None,Master's
+STU1137,Zara Kapoor,Male,11,Mathematics,93.4,87.0,4.1,Regular,High School
+STU1225,Saanvi Verma,Male,9,Science,96.0,100.0,3.0,Regular,High School
+STU1249,Tanvi Kapoor,Female,9,Computer Science,68.8,78.5,2.9,Occasional,High School
+STU1175,Riya Kumar,Female,12,English,96.9,87.0,6.3,None,High School
+STU1210,Aarav Chopra,Female,10,Social Studies,79.7,96.1,4.1,Occasional,Bachelor's
+STU1270,Vivaan Joshi,Male,12,Computer Science,97.8,98.1,6.5,None,Bachelor's
+STU1089,Rohan Mehta,Female,9,Social Studies,89.3,100.0,1.2,None,Bachelor's
+STU1082,Rohan Singh,Female,10,Science,71.1,85.5,1.9,None,High School
+STU1091,Yash Desai,Male,10,Social Studies,85.4,76.2,4.1,Occasional,High School
+STU1075,Aarohi Kumar,Male,12,Science,87.8,100.0,0.8,Occasional,High School
+STU1265,Aadhya Patel,Male,10,Science,100.0,93.0,6.1,None,Master's
+STU1133,Kiara Singh,Female,9,English,100.0,100.0,5.0,None,Bachelor's
+STU1248,Priya Mehta,Female,12,Computer Science,50.5,76.5,1.0,None,Bachelor's
+STU1029,Aarav Nair,Female,10,Computer Science,67.0,83.3,1.8,Occasional,Bachelor's
+STU1186,Vivaan Kumar,Male,11,Social Studies,100.0,82.8,4.2,None,High School
+STU1240,Rohan Kumar,Female,12,English,93.9,87.0,5.1,Regular,Master's
+STU1146,Vihaan Reddy,Female,9,Social Studies,70.4,73.8,1.9,Occasional,PhD
+STU1043,Kiara Joshi,Female,10,Social Studies,64.8,78.2,3.9,Regular,High School
+STU1047,Kiara Sharma,Male,9,Computer Science,75.9,95.7,2.0,None,Master's
+STU1216,Priya Iyer,Female,9,Social Studies,87.6,97.7,2.1,Occasional,Bachelor's
+STU1173,Diya Desai,Male,10,English,56.3,82.3,1.7,None,High School
+STU1145,Aryan Mehta,Female,11,Mathematics,79.8,80.8,3.9,None,High School
+STU1038,Aarohi Rao,Female,9,English,80.6,85.4,3.8,Occasional,High School
+STU1158,Vihaan Gupta,Male,12,English,89.8,91.8,2.6,Regular,Bachelor's
+STU1038,Aarohi Rao,Female,9,Science,89.8,85.4,3.8,Occasional,High School
+STU1249,Tanvi Kapoor,Female,9,English,70.4,78.5,2.9,OCCASIONAL  ,High School
+STU1192,Ira Joshi,Female,11,Computer Science,83.8,80.7,0.8,Occasional,High School
+STU1197,Rohan Verma,Male,11,Mathematics,76.5,87.5,2.3,None,High School
+STU1128,Neha Iyer,Male,10,Computer Science,78.3,73.6,1.8,Regular,High School
+STU1071,Ishaan Singh,Male,11,Computer Science,83.4,91.5,3.8,Regular,High School
+STU1192,Ira Joshi,Female,11,Social Studies,83.9,80.7,0.8,Occasional,High School
+STU1297,Simran Gupta,Female,9,Social Studies,86.3,99.3,5.0,Occasional,High School
+STU1003,Rohan Iyer,Female,9,Science,70.5,93.9,0.0,Regular,PhD
+STU1066,Vivaan Gupta,Male,11,Social Studies,97.8,86.6,3.0,None,High School
+STU1242,Kabir Singh,Male,10,Science,95.6,93.6,3.0,Occasional,Bachelor's
+STU1116,Aarohi Desai,Female,12,English,81.8,83.6,3.1,Regular,High School
+STU1285,Tanvi Gupta,Female,9,Science,58.5,78.0,3.7,None,High School
+STU1214,Simran Patel,Female,12,Computer Science,100.0,100.0,5.1,Occasional,Bachelor's
+STU1167,Aadhya Iyer,Male,12,Computer Science,100.0,76.7,6.7,Occasional,High School
+STU1125,Vihaan Kapoor,Male,9,English,71.5,90.8,4.9,None,Bachelor's
+STU1279,Simran Rao,Male,11,Science,73.3,74.7,4.5,Occasional,Bachelor's
+STU1064,Arjun Reddy,Female,10,Social Studies,83.5,93.8,4.0,Occasional,PhD
+STU1164,Aarav Iyer,Male,10,Computer Science,73.6,76.6,6.3,None,High School
+STU1245,Aarohi Reddy,Female,11,Computer Science,72.9,78.0,2.7,None,Bachelor's
+STU1126,Sai Desai,Female,12,Science,80.7,100.0,6.9,None,Bachelor's
+STU1247,Anika Iyer,Male,9,Science,70.9,73.4,1.7,None,Master's
+STU1289,Myra Reddy,Male,9,English,78.4,75.0,5.9,None,Bachelor's
+STU1155,Sai Sharma,Male,12,Social Studies,71.6,71.6,5.6,Regular,High School
+STU1208,Dev Chopra,Male,11,Science,88.7,96.0,5.3,Occasional,High School
+STU1187,Kabir Chopra,Female,11,Computer Science,73.7,77.9,2.4,None,Master's
+STU1171,Ishaan Chopra,Female,9,Mathematics,80.4,92.5,3.2,Regular,Master's
+STU1087,Kiara Sharma,Male,10,English,76.1,78.4,6.0,Regular,Master's
+STU1023,Vihaan Rao,Male,10,Computer Science,89.3,94.8,5.0,Regular,Bachelor's
+STU1212,Neha Reddy,Female,9,Science,88.0,77.5,5.5,Occasional,Bachelor's
+STU1233,Simran Mehta,Male,11,Computer Science,78.6,91.2,5.7,Regular,Master's
+STU1158,Vihaan Gupta,Male,12,Mathematics,86.5,91.8,2.6,Regular,Bachelor's
+STU1068,Aditya Chopra,Female,12,Science,53.5,75.8,1.7,None,High School
+STU1163,Neha Kapoor,Male,11,Mathematics,88.9,78.6,2.3,Occasional,PhD
+STU1000,Reyansh Iyer,Male,11,English,93.2,88.8,1.5,None,Master's
+STU1045,Aarohi Nair,Female,12,Computer Science,84.3,87.0,1.6,None,PhD
+STU1225,Saanvi Verma,Male,9,English,94.1,100.0,3.0,Regular,High School
+STU1289,Myra Reddy,Male,9,Science,82.4,75.0,5.9,None,Bachelor's
+STU1015,Arjun Singh,Male,9,Science,65.7,73.6,4.4,Occasional,Bachelor's
+STU1278,Aryan Verma,Female,11,Mathematics,86.6,100.0,4.3,Occasional,Bachelor's
+STU1203,Ananya Kumar,Male,9,Science,90.2,80.0,2.9,Regular,Master's
+STU1294,Neha Mehta,Male,11,Social Studies,61.7,71.1,0.8,None,Master's
+STU1074,Ananya Chopra,Female,9,Science,80.5,86.8,3.2,None,High School
+STU1036,Myra Singh,Female,12,Mathematics,89.4,82.2,5.3,Occasional,Bachelor's
+STU1215,Priya Iyer,Male,11,Computer Science,91.8,76.4,4.6,Occasional,Bachelor's
+STU1295,Simran Rao,Female,12,Science,83.8,86.8,2.7,Occasional,High School
+STU1188,Arjun Kumar,Female,11,Science,69.2,75.1,2.9,Regular,High School
+STU1115,Krishna Rao,Male,10,English,62.7,72.1,2.5,Regular,PhD
+STU1163,Neha Kapoor,Male,11,Computer Science,91.3,78.6,2.3,Occasional,PhD
+STU1219,Krishna Sharma,Male,11,Social Studies,86.5,96.8,4.3,Occasional,High School
+STU1223,Ananya Chopra,Female,11,Science,92.9,100.0,4.8,None,Bachelor's
+STU1258,Zara Reddy,Male,12,English,73.1,92.3,2.9,None,Master's
+STU1256,Kabir Singh,Male,10,Social Studies,45.0,77.7,0.0,Regular,High School
+STU1012,Ishaan Kumar,Male,11,English,82.0,99.6,4.6,None,Master's
+STU1117,Myra Mehta,Female,11,Computer Science,82.4,75.1,3.5,None,High School
+STU1177,Saanvi Gupta,Male,9,Science,75.7,100.0,4.5,Occasional,Master's
+STU1193,Diya Joshi,Male,10,Social Studies,86.7,67.1,6.0,Occasional,Master's
+STU1225,Saanvi Verma,Male,9,Mathematics,95.6,100.0,3.0,Regular,High School
+STU1157,Saanvi Verma,Male,10,Mathematics,82.1,97.7,4.2,Regular,High School
+STU1230,Aryan Chopra,Male,12,Science,77.4,72.5,3.8,Regular,Bachelor's
+STU1062,Aryan Nair,Female,9,Science,71.8,86.7,1.3,Regular,High School
+STU1241,Zara Gupta,Female,9,Mathematics,66.3,89.2,2.4,Regular,Bachelor's
+STU1060,Arjun Kumar,Female,10,Science,69.1,74.1,1.9,Occasional,Master's
+STU1144,Aarohi Kapoor,Female,11,English,75.7,100.0,4.1,Occasional,High School
+STU1137,Zara Kapoor,Male,11,Computer Science,84.6,87.0,4.1,Regular,High School
+STU1162,Saanvi Desai,Female,9,English,98.8,80.3,3.5,Occasional,PhD
+STU1007,Tanvi Mehta,Female,12,English,74.8,76.6,4.1,Occasional,Master's
+STU1070,Sai Nair,Male,10,Social Studies,88.8,78.2,6.1,Occasional,PhD
+STU1276,Reyansh Chopra,Male,11,English,70.4,54.6,4.3,Occasional,Master's
+STU1142,Yash Kapoor,Female,10,Computer Science,94.7,94.0,2.7,Regular,High School
+STU1196,Rohan Kumar,Male,12,Mathematics,73.2,85.9,1.1,Regular,High School
+STU1047,Kiara Sharma,Male,9,Science,78.8,95.7,2.0,None,Master's
+STU1270,Vivaan Joshi,Male,12,Social Studies,99.7,98.1,6.5,None,Bachelor's
+STU1192,Ira Joshi,Female,11,English,81.4,80.7,0.8,Occasional,High School
+STU1238,Ira Verma,Male,12,Computer Science,77.1,67.5,4.8,Occasional,PhD
+STU1145,Aryan Mehta,Female,11,Computer Science,78.6,80.8,3.9,None,High School
+STU1282,Ishaan Singh,Female,12,Mathematics,73.6,85.7,4.5,None,Bachelor's
+STU1234,Riya Iyer,Male,9,Science,72.9,78.0,0.0,None,High School
+STU1099,Ishaan Desai,Female,12,Computer Science,87.4,81.7,4.2,Regular,Bachelor's
+STU1248,Priya Mehta,Female,12,Science,58.8,76.5,1.0,None,Bachelor's
+STU1110,Reyansh Singh,Male,9,Social Studies,61.2,67.2,5.2,Occasional,Bachelor's
+STU1011,Anika Singh,Male,11,Mathematics,89.6,94.8,6.3,None,High School
+STU1060,Arjun Kumar,Female,10,English,68.6,74.1,1.9,Occasional,Master's
+STU1158,Vihaan Gupta,Male,12,Computer Science,81.6,91.8,2.6,Regular,Bachelor's
+STU1057,Kabir Kapoor,Male,11,Science,81.2,65.0,1.7,None,Master's
+STU1229,Zara Nair,Female,10,Mathematics,88.4,86.4,6.2,None,Master's
+STU1043,Kiara Joshi,Female,10,Computer Science,76.4,78.2,3.9,Regular,High School
+STU1180,Dev Reddy,Female,10,Mathematics,80.3,78.0,4.5,Regular,PhD
+STU1198,Kiara Verma,Female,9,Mathematics,81.6,97.2,5.6,Occasional,High School
+STU1205,Kabir Chopra,Male,9,Social Studies,78.7,86.6,3.2,Occasional,High School
+STU1186,Vivaan Kumar,Male,11,Computer Science,100.0,82.8,4.2,None,High School
+STU1077,Reyansh Chopra,Male,9,English,80.5,93.8,2.6,Occasional,High School
+STU1060,Arjun Kumar,Female,10,Computer Science,68.1,74.1,1.9,Occasional,Master's
+STU1078,Riya Verma,Male,10,Mathematics,71.7,87.9,4.3,Regular,High School
+STU1148,Rohan Joshi,Female,10,Social Studies,92.7,95.2,2.5,Regular,High School
+STU1070,Sai Nair,Male,10,English,95.9,78.2,6.1,Occasional,PhD
+STU1047,Kiara Sharma,Male,9,Mathematics,79.4,95.7,2.0,None,Master's
+STU1255,Simran Joshi,Male,11,Mathematics,66.7,95.2,4.3,Regular,High School
+STU1096,Aadhya Verma,Female,11,Mathematics,85.8,100.0,3.0,Regular,Bachelor's
+STU1113,Ishaan Sharma,Female,9,English,79.7,82.6,3.9,Regular,PhD
+STU1251,Priya Kumar,Male,10,Computer Science,80.0,83.9,2.8,None,Bachelor's
+STU1278,Aryan Verma,Female,11,Computer Science,100.0,100.0,4.3,Occasional,Bachelor's
+STU1234,Riya Iyer,Male,9,English,76.2,78.0,0.0,None,High School
+STU1024,Anika Sharma,Male,12,Mathematics,98.7,79.7,6.3,Regular,High School
+STU1257,Simran Patel,Female,9,Computer Science,62.7,71.1,4.1,None,High School
+STU1204,Kiara Mehta,Female,10,Computer Science,89.6,100.0,4.3,None,Bachelor's
+STU1185,Ira Patel,Female,12,Science,82.3,93.1,4.2,None,Bachelor's
+STU1103,Anika Gupta,Female,12,Mathematics,100.0,93.3,3.7,None,High School
+STU1044,Arjun Kapoor,Male,11,Social Studies,90.5,85.6,2.3,None,Bachelor's
+STU1221,Dev Desai,Female,11,Mathematics,58.8,64.0,5.5,Regular,High School
+STU1122,Aryan Rao,Female,10,Social Studies,52.7,92.8,2.1,Regular,High School
+STU1168,Aryan Reddy,Male,11,Social Studies,71.2,79.9,0.0,Regular,Bachelor's
+STU1010,Sai Reddy,Male,11,English,76.4,96.1,2.6,None,High School
+STU1275,Vihaan Nair,Male,11,Social Studies,86.8,99.4,3.8,Regular,PhD
+STU1097,Aadhya Joshi,Male,11,Mathematics,89.3,88.1,7.7,Occasional,Bachelor's
+STU1286,Aarav Nair,Male,11,Mathematics,77.6,89.1,1.0,Occasional,Bachelor's
+STU1163,Neha Kapoor,Male,11,Social Studies,88.8,78.6,2.3,Occasional,PhD
+STU1031,Arjun Patel,Female,9,Mathematics,100.0,77.6,5.4,Occasional,Master's
+STU1120,Ananya Nair,Male,9,Mathematics,78.6,63.9,4.5,Occasional,Bachelor's
+STU1240,Rohan Kumar,Female,12,Mathematics,92.9,87.0,5.1,Regular,Master's
+STU1049,Arjun Chopra,Male,12,Social Studies,85.1,100.0,2.7,Occasional,Master's
+STU1152,Ananya Sharma,Male,9,Science,72.5,67.2,3.2,Regular,Bachelor's
+STU1273,Neha Rao,Male,10,Science,56.1,78.2,0.0,None,High School
+STU1108,Aadhya Reddy,Female,9,English,71.0,89.2,2.1,Occasional,High School
+STU1158,Vihaan Gupta,Male,12,Social Studies,79.7,91.8,2.6,Regular,Bachelor's
+STU1217,Ananya Desai,Female,9,Computer Science,60.3,63.2,4.7,None,Bachelor's
+STU1125,Vihaan Kapoor,Male,9,Social Studies,75.1,90.8,4.9,None,Bachelor's
+STU1030,Tanvi Mehta,Male,9,Mathematics,80.3,84.4,2.6,None,High School
+STU1058,Sai Kapoor,Male,10,Science,76.1,88.1,2.9,Occasional,Master's
+STU1076,Zara Nair,Male,10,Science,83.2,87.3,2.7,None,PhD
+STU1137,Zara Kapoor,Male,11,Science,94.3,87.0,4.1,Regular,High School
+STU1179,Rohan Kapoor,Male,11,English,76.4,67.9,6.0,None,High School
+STU1170,Zara Kumar,Male,12,Computer Science,81.0,86.7,2.7,None,Master's
+STU1298,Ishaan Joshi,Male,9,Social Studies,100.0,89.5,4.2,Occasional,Bachelor's
+STU1228,Simran Iyer,Female,10,English,63.1,75.7,3.3,Occasional,PhD
+STU1252,Myra Patel,Male,9,Computer Science,69.9,81.0,3.6,Occasional,PhD
+STU1178,Ishaan Kapoor,Female,10,Science,64.0,83.1,1.5,Regular,High School
+STU1299,Kiara Desai,Female,11,Science,65.0,74.0,3.1,Occasional,Bachelor's
+STU1123,Aditya Rao,Male,10,Mathematics,80.9,99.0,4.1,Occasional,Bachelor's
+STU1030,Tanvi Mehta,Male,9,Computer Science,84.3,84.4,2.6,None,High School
+STU1298,Ishaan Joshi,Male,9,Science,99.0,89.5,4.2,Occasional,Bachelor's
+STU1064,Arjun Reddy,Female,10,English,75.1,93.8,4.0,Occasional,PhD
+STU1231,Myra Patel,Male,12,English,96.4,85.5,3.0,Occasional,Bachelor's
+STU1016,Simran Rao,Female,10,English,94.6,97.6,5.4,None,Master's
+STU1102,Aadhya Iyer,Female,9,English,64.3,72.8,2.5,None,Master's
+STU1228,Simran Iyer,Female,10,Science,73.1,75.7,3.3,OCCASIONAL  ,PhD
+STU1185,Ira Patel,Female,12,Computer Science,75.4,93.1,4.2,None,Bachelor's
+STU1244,Priya Chopra,Male,12,Social Studies,83.4,90.4,3.4,None,High School
+STU1002,Ira Patel,Male,9,Mathematics,89.9,96.4,2.4,None,High School
+STU1166,Reyansh Sharma,Male,9,Science,91.2,79.3,6.2,None,High School
+STU1006,Rohan Mehta,Male,11,English,77.2,97.5,0.9,Occasional,High School
+STU1082,Rohan Singh,Female,10,Social Studies,70.8,85.5,1.9,None,High School
+STU1116,Aarohi Desai,Female,12,Mathematics,82.9,83.6,3.1,Regular,High School
+STU1231,Myra Patel,Male,12,Computer Science,96.2,85.5,3.0,Occasional,Bachelor's
+STU1284,Aryan Patel,Female,10,Social Studies,80.1,94.9,2.4,Occasional,High School
+STU1122,Aryan Rao,Female,10,Computer Science,66.1,92.8,2.1,Regular,High School
+STU1209,Dev Desai,Female,11,Mathematics,82.0,86.4,4.6,None,High School
+STU1202,Ananya Verma,Female,12,Computer Science,81.0,95.7,3.0,Occasional,High School
+STU1017,Aarav Singh,Female,10,Computer Science,65.5,71.2,3.5,Regular,Master's
+STU1254,Diya Kumar,Female,10,Mathematics,76.2,78.8,3.7,None,High School
+STU1120,Ananya Nair,Male,9,Science,84.1,63.9,4.5,Occasional,Bachelor's
+STU1026,Aadhya Chopra,Female,10,Social Studies,85.7,85.9,0.7,Occasional,Bachelor's
+STU1111,Arjun Chopra,Female,9,Mathematics,78.6,80.3,2.9,Occasional,High School
+STU1206,Dev Kumar,Male,9,Science,68.6,91.6,4.4,None,Bachelor's
+STU1234,Riya Iyer,Male,9,Social Studies,81.0,78.0,0.0,None,High School
+STU1064,Arjun Reddy,Female,10,Mathematics,85.4,93.8,4.0,Occasional,PhD
+STU1263,Tanvi Iyer,Female,10,Computer Science,100.0,87.2,6.9,Occasional,High School
+STU1259,Zara Joshi,Male,10,English,93.5,95.7,2.9,None,Bachelor's
+STU1126,Sai Desai,Female,12,Computer Science,82.0,100.0,6.9,None,Bachelor's
+STU1110,Reyansh Singh,Male,9,English,64.5,67.2,5.2,OCCASIONAL  ,Bachelor's
+STU1211,Aarohi Gupta,Male,10,Mathematics,86.5,84.5,1.2,Occasional,Bachelor's
+STU1233,Simran Mehta,Male,11,Science,74.9,,5.7,Regular,Master's
+STU1159,Arjun Iyer,Female,11,Science,78.9,64.7,3.3,Occasional,High School
+STU1249,Tanvi Kapoor,Female,9,Science,62.4,78.5,2.9,Occasional,High School
+STU1255,Simran Joshi,Male,11,English,72.0,95.2,4.3,Regular,High School
+STU1034,Anika Verma,Female,10,Computer Science,92.0,79.6,4.0,Occasional,Bachelor's
+STU1153,Diya Verma,Female,11,Science,86.3,80.7,5.4,Occasional,Bachelor's
+STU1049,Arjun Chopra,Male,12,Mathematics,85.6,100.0,2.7,Occasional,Master's
+STU1216,Priya Iyer,Female,9,Mathematics,79.9,97.7,2.1,OCCASIONAL  ,Bachelor's
+STU1259,Zara Joshi,Male,10,Science,100.0,95.7,2.9,None,Bachelor's
+STU1029,Aarav Nair,Female,10,Mathematics,66.1,83.3,1.8,Occasional,Bachelor's
+STU1018,Priya Rao,Female,9,Mathematics,100.0,98.1,2.7,None,High School
+STU1136,Aryan Gupta,Female,9,English,83.0,85.1,4.4,Occasional,Master's
+STU1062,Aryan Nair,Female,9,Mathematics,63.0,86.7,1.3,Regular,High School
+STU1018,Priya Rao,Female,9,Social Studies,100.0,98.1,2.7,None,High School
+STU1290,Myra Joshi,Male,11,Mathematics,88.4,86.1,0.8,None,High School
+STU1184,Ananya Singh,Male,9,Computer Science,80.8,96.5,2.1,None,Bachelor's
+STU1252,Myra Patel,Male,9,Social Studies,66.3,81.0,3.6,Occasional,PhD
+STU1207,Aryan Nair,Female,11,Mathematics,86.8,80.3,3.5,Regular,Master's
+STU1048,Kiara Desai,Male,9,Social Studies,73.5,88.0,3.8,None,Bachelor's
+STU1222,Neha Iyer,Female,11,Science,62.0,68.2,0.8,Occasional,Master's
+STU1042,Dev Kumar,Male,11,Computer Science,87.0,84.4,4.0,None,Bachelor's
+STU1199,Vivaan Kapoor,Male,9,Social Studies,77.8,66.6,1.1,None,Bachelor's
+STU1170,Zara Kumar,Male,12,Social Studies,77.5,86.7,2.7,None,Master's
+STU1085,Anika Reddy,Female,11,Mathematics,89.3,85.5,7.4,Regular,High School
+STU1262,Rohan Desai,Male,10,Computer Science,82.3,88.9,5.4,None,High School
+STU1045,Aarohi Nair,Female,12,Science,80.7,87.0,1.6,None,PhD
+STU1244,Priya Chopra,Male,12,Science,84.5,90.4,3.4,None,High School
+STU1000,Reyansh Iyer,Male,11,Mathematics,93.2,88.8,1.5,None,Master's
+STU1080,Zara Kapoor,Male,9,Science,63.0,66.0,4.2,None,Bachelor's
+STU1220,Saanvi Reddy,Female,10,Social Studies,100.0,95.7,4.6,Regular,Master's
+STU1016,Simran Rao,Female,10,Computer Science,100.0,97.6,5.4,None,Master's
+STU1032,Aditya Nair,Male,9,English,76.8,100.0,2.3,None,Master's
+STU1022,Simran Iyer,Female,12,Computer Science,84.6,100.0,2.4,Occasional,Bachelor's
+STU1134,Aditya Reddy,Male,12,Mathematics,68.0,82.5,2.0,Occasional,Bachelor's
+STU1228,Simran Iyer,Female,10,Social Studies,63.7,75.7,3.3,Occasional,PhD
+STU1177,Saanvi Gupta,Male,9,Computer Science,76.5,100.0,4.5,Occasional,Master's
+STU1125,Vihaan Kapoor,Male,9,Mathematics,79.7,90.8,4.9,None,Bachelor's
+STU1292,Riya Patel,Female,10,Computer Science,87.2,87.3,4.5,None,Bachelor's
+STU1190,Ishaan Desai,Female,10,English,97.9,100.0,2.9,Regular,Bachelor's
+STU1161,Neha Gupta,Female,9,English,81.5,99.3,1.4,Regular,Master's
+STU1051,Priya Kumar,Female,11,Social Studies,100.0,83.9,1.4,Regular,Master's
+STU1124,Dev Iyer,Female,12,Computer Science,82.1,92.1,5.3,None,Bachelor's
+STU1165,Sai Mehta,Female,10,Science,71.1,90.1,4.6,Occasional,Master's
+STU1046,Zara Gupta,Male,9,Computer Science,97.6,100.0,4.0,None,Master's
+STU1027,Rohan Rao,Male,11,Mathematics,77.8,100.0,1.9,None,Bachelor's
+STU1123,Aditya Rao,Male,10,Science,96.1,99.0,4.1,Occasional,Bachelor's
+STU1167,Aadhya Iyer,Male,12,Science,96.7,76.7,6.7,Occasional,High School
+STU1168,Aryan Reddy,Male,11,English,74.8,79.9,0.0,Regular,Bachelor's
+STU1191,Riya Nair,Male,9,Computer Science,73.1,92.6,1.3,Occasional,Master's
+STU1118,Diya Gupta,Female,9,English,87.4,78.0,5.0,Regular,Bachelor's
+STU1068,Aditya Chopra,Female,12,Social Studies,46.0,75.8,1.7,None,High School
+STU1256,Kabir Singh,Male,10,Mathematics,39.3,77.7,0.0,Regular,High School
+STU1058,Sai Kapoor,Male,10,Social Studies,83.3,88.1,2.9,Occasional,Master's
+STU1072,Priya Verma,Female,9,Computer Science,38.9,87.7,2.6,Regular,High School
+STU1035,Aarohi Mehta,Female,12,Social Studies,49.5,71.2,3.2,Occasional,High School
+STU1131,Meera Verma,Female,10,Computer Science,100.0,100.0,3.6,Regular,Bachelor's
+STU1199,Vivaan Kapoor,Male,9,Science,80.6,66.6,1.1,None,Bachelor's
+STU1002,Ira Patel,Male,9,Computer Science,91.0,96.4,2.4,None,High School
+STU1222,Neha Iyer,Female,11,Mathematics,75.2,68.2,0.8,Occasional,Master's
+STU1033,Aryan Reddy,Male,11,Mathematics,73.2,90.0,2.7,Regular,High School
+STU1281,Anika Mehta,Male,9,Science,78.1,73.9,0.0,Regular,Master's
+STU1011,Anika Singh,Male,11,Computer Science,86.9,94.8,6.3,None,High School
+STU1141,Anika Gupta,Male,10,Computer Science,83.0,83.4,5.5,Occasional,Bachelor's
+STU1135,Kiara Kapoor,Female,10,Science,73.4,77.3,1.0,Occasional,High School
+STU1156,Meera Desai,Male,10,Mathematics,57.0,97.9,2.8,None,High School
+STU1084,Priya Desai,Male,11,Computer Science,72.3,87.5,2.8,None,Bachelor's
+STU1058,Sai Kapoor,Male,10,English,91.4,88.1,2.9,Occasional,Master's
+STU1213,Neha Singh,Female,11,Mathematics,83.3,82.7,5.2,Occasional,High School
+STU1267,Myra Gupta,Female,10,English,78.3,61.2,3.2,None,Bachelor's
+STU1065,Ira Singh,Female,11,Computer Science,83.0,85.3,2.4,Occasional,PhD
+STU1085,Anika Reddy,Female,11,Computer Science,97.6,85.5,7.4,Regular,High School
+STU1202,Ananya Verma,Female,12,English,92.7,95.7,3.0,Occasional,High School
+STU1015,Arjun Singh,Male,9,Computer Science,79.3,73.6,4.4,Occasional,Bachelor's
+STU1210,Aarav Chopra,Female,10,English,85.9,96.1,4.1,Occasional,Bachelor's
+STU1187,Kabir Chopra,Female,11,English,70.1,77.9,2.4,None,Master's
+STU1166,Reyansh Sharma,Male,9,Computer Science,79.5,79.3,6.2,None,High School
+STU1149,Saanvi Sharma,Female,12,Computer Science,76.5,70.8,3.3,Regular,Master's
+STU1178,Ishaan Kapoor,Female,10,Mathematics,74.1,83.1,1.5,Regular,High School
+STU1050,Krishna Patel,Male,10,Computer Science,75.9,71.5,4.0,Occasional,PhD
+STU1292,Riya Patel,Female,10,Social Studies,98.6,87.3,4.5,None,Bachelor's
+STU1221,Dev Desai,Female,11,Social Studies,55.5,64.0,5.5,Regular,High School
+STU1027,Rohan Rao,Male,11,Science,76.7,100.0,1.9,None,Bachelor's
+STU1227,Kabir Kapoor,Female,12,Mathematics,82.7,100.0,4.3,Occasional,High School
+STU1170,Zara Kumar,Male,12,English,80.8,86.7,2.7,None,Master's
+STU1144,Aarohi Kapoor,Female,11,Social Studies,78.4,100.0,4.1,Occasional,High School
+STU1171,Ishaan Chopra,Female,9,Computer Science,84.9,92.5,3.2,Regular,Master's
+STU1193,Diya Joshi,Male,10,Computer Science,87.1,67.1,6.0,Occasional,Master's
+STU1099,Ishaan Desai,Female,12,Science,95.5,81.7,4.2,Regular,Bachelor's
+STU1190,Ishaan Desai,Female,10,Mathematics,98.5,100.0,2.9,Regular,Bachelor's
+STU1161,Neha Gupta,Female,9,Mathematics,90.0,99.3,1.4,Regular,Master's
+STU1025,Kiara Nair,Male,11,Computer Science,85.8,80.9,4.6,Occasional,Bachelor's
+STU1067,Aditya Joshi,Male,10,English,59.2,78.9,5.4,Regular,Bachelor's
+STU1298,Ishaan Joshi,Male,9,English,97.8,89.5,4.2,Occasional,Bachelor's
+STU1121,Aarav Iyer,Female,11,Social Studies,73.1,88.1,1.8,Regular,Bachelor's
+STU1229,Zara Nair,Female,10,Social Studies,84.3,86.4,6.2,None,Master's
+STU1039,Ananya Desai,Female,9,Mathematics,74.4,74.5,4.3,None,Master's
+STU1295,Simran Rao,Female,12,Social Studies,81.2,86.8,2.7,Occasional,High School
+STU1181,Reyansh Sharma,Male,12,Computer Science,68.0,81.2,1.2,Regular,Bachelor's
+STU1116,Aarohi Desai,Female,12,Computer Science,91.0,83.6,3.1,Regular,High School
+STU1020,Myra Kumar,Female,9,Social Studies,76.7,97.4,7.3,Occasional,High School
+STU1276,Reyansh Chopra,Male,11,Computer Science,72.5,54.6,4.3,Occasional,Master's
+STU1292,Riya Patel,Female,10,Mathematics,89.2,87.3,4.5,None,Bachelor's
+STU1143,Krishna Sharma,Female,9,Computer Science,72.4,94.6,6.8,Occasional,High School
+STU1176,Aditya Chopra,Male,9,Computer Science,94.9,83.7,6.5,Occasional,High School
+STU1155,Sai Sharma,Male,12,Science,78.9,71.6,5.6,Regular,High School
+STU1169,Sai Singh,Female,11,Computer Science,78.9,55.7,4.7,Occasional,High School
+STU1178,Ishaan Kapoor,Female,10,Computer Science,63.1,83.1,1.5,Regular,High School
+STU1045,Aarohi Nair,Female,12,English,81.9,87.0,1.6,None,PhD
+STU1281,Anika Mehta,Male,9,Social Studies,78.9,73.9,0.0,Regular,Master's
+STU1025,Kiara Nair,Male,11,Science,89.9,80.9,4.6,Occasional,Bachelor's
+STU1081,Zara Verma,Female,11,Mathematics,77.9,94.4,1.4,None,Bachelor's
+STU1155,Sai Sharma,Male,12,Mathematics,78.9,71.6,5.6,Regular,High School
+STU1164,Aarav Iyer,Male,10,Science,85.4,76.6,6.3,None,High School
+STU1142,Yash Kapoor,Female,10,Science,98.3,94.0,2.7,Regular,High School
+STU1282,Ishaan Singh,Female,12,English,75.0,85.7,4.5,None,Bachelor's
+STU1212,Neha Reddy,Female,9,Mathematics,82.4,77.5,5.5,Occasional,Bachelor's
+STU1232,Sai Singh,Female,9,Social Studies,72.5,78.5,2.4,Regular,High School
+STU1060,Arjun Kumar,Female,10,Social Studies,75.9,74.1,1.9,Occasional,Master's
+STU1053,Sai Nair,Female,9,English,70.3,72.8,1.1,Occasional,Bachelor's
+STU1109,Ira Nair,Male,10,Mathematics,73.9,78.2,5.8,None,Bachelor's
+STU1042,Dev Kumar,Male,11,English,80.8,84.4,4.0,None,Bachelor's
+STU1179,Rohan Kapoor,Male,11,Science,66.1,67.9,6.0,None,High School
+STU1183,Anika Chopra,Female,9,Science,82.3,70.5,5.3,None,Bachelor's
+STU1135,Kiara Kapoor,Female,10,Mathematics,76.2,77.3,1.0,Occasional,High School
+STU1162,Saanvi Desai,Female,9,Computer Science,88.6,80.3,3.5,Occasional,PhD
+STU1068,Aditya Chopra,Female,12,English,49.3,75.8,1.7,None,High School
+STU1109,Ira Nair,Male,10,Computer Science,73.8,78.2,5.8,None,Bachelor's
+STU1242,Kabir Singh,Male,10,Computer Science,81.0,93.6,3.0,Occasional,Bachelor's
+STU1193,Diya Joshi,Male,10,Science,85.5,67.1,6.0,Occasional,Master's
+STU1059,Ishaan Reddy,Female,11,Mathematics,100.0,88.6,6.4,None,Bachelor's
+STU1139,Aryan Sharma,Male,12,Mathematics,83.5,74.2,6.2,Regular,Bachelor's
+STU1014,Krishna Joshi,Male,10,Social Studies,82.1,99.1,6.0,Regular,Bachelor's
+STU1121,Aarav Iyer,Female,11,Mathematics,79.0,88.1,1.8,Regular,Bachelor's
+STU1020,Myra Kumar,Female,9,Computer Science,74.9,97.4,7.3,Occasional,High School
+STU1129,Kabir Iyer,Female,9,Mathematics,80.5,94.4,7.2,None,Master's
+STU1293,Sai Gupta,Female,11,English,71.4,75.0,4.1,Occasional,Bachelor's
+STU1208,Dev Chopra,Male,11,Mathematics,86.3,96.0,5.3,Occasional,High School
+STU1087,Kiara Sharma,Male,10,Computer Science,63.7,78.4,6.0,Regular,Master's
+STU1203,Ananya Kumar,Male,9,Computer Science,90.8,80.0,2.9,Regular,Master's
+STU1018,Priya Rao,Female,9,Science,92.0,98.1,2.7,None,High School
+STU1222,Neha Iyer,Female,11,English,76.1,68.2,0.8,Occasional,Master's
+STU1287,Priya Singh,Female,9,Mathematics,81.5,78.6,4.1,None,Bachelor's
+STU1181,Reyansh Sharma,Male,12,Social Studies,64.3,81.2,1.2,Regular,Bachelor's
+STU1020,Myra Kumar,Female,9,English,81.3,97.4,7.3,Occasional,High School
+STU1047,Kiara Sharma,Male,9,Social Studies,73.6,95.7,2.0,None,Master's
+STU1254,Diya Kumar,Female,10,Computer Science,76.9,78.8,3.7,None,High School
+STU1188,Arjun Kumar,Female,11,English,59.6,75.1,2.9,Regular,High School
+STU1187,Kabir Chopra,Female,11,Social Studies,76.7,77.9,2.4,None,Master's
+STU1236,Kabir Patel,Female,12,Science,95.1,93.3,2.1,None,High School
+STU1001,Diya Kumar,Male,11,Mathematics,64.9,74.1,0.1,None,Bachelor's
+STU1271,Saanvi Kumar,Male,10,Social Studies,76.1,92.5,3.8,Regular,High School
+STU1193,Diya Joshi,Male,10,Mathematics,93.3,67.1,6.0,Occasional,Master's
+STU1003,Rohan Iyer,Female,9,Social Studies,75.6,93.9,0.0,Regular,PhD
+STU1024,Anika Sharma,Male,12,Science,93.8,79.7,6.3,Regular,High School
+STU1132,Rohan Verma,Female,12,Science,75.6,97.0,2.0,Regular,Bachelor's
+STU1252,Myra Patel,Male,9,English,77.9,81.0,3.6,Occasional,PhD
+STU1054,Dev Gupta,Male,12,Computer Science,83.8,78.4,2.5,None,Master's
+STU1086,Meera Singh,Female,9,Social Studies,82.1,100.0,0.7,Occasional,High School
+STU1162,Saanvi Desai,Female,9,Science,89.3,80.3,3.5,Occasional,PhD
+STU1279,Simran Rao,Male,11,Computer Science,68.1,74.7,4.5,Occasional,Bachelor's
+STU1282,Ishaan Singh,Female,12,Social Studies,66.2,85.7,4.5,None,Bachelor's
+STU1036,Myra Singh,Female,12,Science,83.7,82.2,5.3,Occasional,Bachelor's
+STU1036,Myra Singh,Female,12,Computer Science,86.6,82.2,5.3,Occasional,Bachelor's
+STU1081,Zara Verma,Female,11,Science,,94.4,1.4,None,Bachelor's
+STU1173,Diya Desai,Male,10,Mathematics,51.5,82.3,1.7,None,High School
+STU1104,Myra Rao,Female,10,Mathematics,72.4,99.8,2.2,Occasional,Bachelor's
+STU1200,Myra Reddy,Male,10,Social Studies,87.5,83.3,1.9,Occasional,High School
+STU1076,Zara Nair,Male,10,Mathematics,69.3,87.3,2.7,None,PhD
+STU1085,Anika Reddy,Female,11,English,86.0,85.5,7.4,Regular,High School
+STU1015,Arjun Singh,Male,9,Social Studies,66.6,73.6,4.4,Occasional,Bachelor's
+STU1201,Riya Chopra,Female,11,Computer Science,75.8,75.6,4.7,Regular,High School
+STU1294,Neha Mehta,Male,11,Computer Science,64.5,71.1,0.8,None,Master's
+STU1121,Aarav Iyer,Female,11,English,66.2,88.1,1.8,Regular,Bachelor's
+STU1266,Krishna Joshi,Female,11,Science,83.9,87.1,1.4,None,Master's
+STU1297,Simran Gupta,Female,9,Computer Science,79.0,99.3,5.0,Occasional,High School
+STU1272,Ananya Desai,Male,10,Computer Science,68.1,84.2,2.0,None,Master's
+STU1211,Aarohi Gupta,Male,10,English,85.9,84.5,1.2,Occasional,Bachelor's
+STU1218,Meera Sharma,Female,9,Science,80.3,81.5,0.3,Occasional,Master's
+STU1220,Saanvi Reddy,Female,10,Science,94.9,95.7,4.6,Regular,Master's
+STU1225,Saanvi Verma,Male,9,Computer Science,92.6,100.0,3.0,Regular,High School
+STU1247,Anika Iyer,Male,9,Mathematics,74.6,73.4,1.7,None,Master's
+STU1263,Tanvi Iyer,Female,10,English,100.0,87.2,6.9,Occasional,High School
+STU1191,Riya Nair,Male,9,Social Studies,62.3,92.6,1.3,Occasional,Master's
+STU1111,Arjun Chopra,Female,9,Computer Science,82.4,80.3,2.9,Occasional,High School
+STU1169,Sai Singh,Female,11,Science,82.7,55.7,4.7,Occasional,High School
+STU1138,Vivaan Reddy,Male,12,Mathematics,72.5,74.9,4.5,Regular,High School
+STU1289,Myra Reddy,Male,9,Computer Science,65.6,75.0,5.9,None,Bachelor's
+STU1279,Simran Rao,Male,11,English,77.9,74.7,4.5,Occasional,Bachelor's
+STU1087,Kiara Sharma,Male,10,Science,80.7,78.4,6.0,Regular,Master's
+STU1098,Yash Sharma,Female,9,Mathematics,82.0,91.6,3.5,Regular,High School
+STU1298,Ishaan Joshi,Male,9,Computer Science,100.0,89.5,4.2,Occasional,Bachelor's
+STU1275,Vihaan Nair,Male,11,Mathematics,86.2,99.4,3.8,Regular,PhD
+STU1013,Kabir Iyer,Female,12,Computer Science,86.9,90.0,4.9,Occasional,Master's
+STU1161,Neha Gupta,Female,9,Social Studies,81.9,99.3,1.4,Regular,Master's
+STU1236,Kabir Patel,Female,12,Computer Science,93.2,93.3,2.1,None,High School
+STU1002,Ira Patel,Male,9,Science,84.7,96.4,2.4,None,High School
+STU1028,Neha Desai,Female,9,Computer Science,78.6,98.7,0.0,Regular,High School
+STU1183,Anika Chopra,Female,9,English,87.7,70.5,5.3,None,Bachelor's
+STU1127,Meera Nair,Female,9,Computer Science,96.1,95.9,3.1,Regular,Bachelor's
+STU1035,Aarohi Mehta,Female,12,Science,47.5,71.2,3.2,Occasional,High School
+STU1198,Kiara Verma,Female,9,Computer Science,78.5,97.2,5.6,Occasional,High School
+STU1088,Neha Iyer,Female,11,Mathematics,76.3,84.0,4.2,None,High School
+STU1104,Myra Rao,Female,10,Science,76.0,99.8,2.2,Occasional,Bachelor's
+STU1296,Aditya Joshi,Female,9,Mathematics,,89.1,3.3,Occasional,High School
+STU1200,Myra Reddy,Male,10,Computer Science,74.1,83.3,1.9,Occasional,High School
+STU1251,Priya Kumar,Male,10,Mathematics,83.5,83.9,2.8,None,Bachelor's
+STU1246,Aryan Chopra,Male,9,Computer Science,88.0,82.8,4.2,None,Bachelor's
+STU1028,Neha Desai,Female,9,Social Studies,76.8,98.7,0.0,Regular,High School
+STU1150,Vihaan Kapoor,Male,11,Social Studies,75.4,75.2,3.8,Occasional,Bachelor's
+STU1103,Anika Gupta,Female,12,Computer Science,100.0,93.3,3.7,None,High School
+STU1164,Aarav Iyer,Male,10,English,72.4,76.6,6.3,None,High School
+STU1085,Anika Reddy,Female,11,Social Studies,96.4,85.5,7.4,Regular,High School
+STU1122,Aryan Rao,Female,10,English,59.0,92.8,2.1,Regular,High School
+STU1206,Dev Kumar,Male,9,English,73.9,91.6,4.4,None,Bachelor's
+STU1031,Arjun Patel,Female,9,Science,95.9,77.6,5.4,Occasional,Master's
+STU1107,Aditya Patel,Female,10,Computer Science,82.0,91.4,4.0,Occasional,High School
+STU1258,Zara Reddy,Male,12,Mathematics,73.1,92.3,2.9,None,Master's
+STU1092,Anika Sharma,Female,12,Science,95.9,88.3,2.8,Regular,Master's
+STU1115,Krishna Rao,Male,10,Science,65.6,72.1,2.5,Regular,PhD
+STU1051,Priya Kumar,Female,11,Mathematics,99.9,83.9,1.4,Regular,Master's
+STU1195,Vivaan Kapoor,Male,11,Computer Science,96.5,98.4,5.7,Occasional,PhD
+STU1237,Aarohi Sharma,Female,10,Mathematics,89.8,82.9,2.3,Occasional,Bachelor's
+STU1201,Riya Chopra,Female,11,Science,68.0,75.6,4.7,Regular,High School
+STU1112,Tanvi Joshi,Male,9,Mathematics,68.6,73.8,3.5,None,Master's
+STU1041,Vivaan Joshi,Female,11,Social Studies,69.1,80.7,3.0,Occasional,PhD
+STU1182,Arjun Joshi,Male,9,Mathematics,81.3,89.1,2.1,None,Bachelor's
+STU1262,Rohan Desai,Male,10,Science,87.4,88.9,5.4,None,High School
+STU1000,Reyansh Iyer,Male,11,Science,98.2,88.8,1.5,None,Master's
+STU1053,Sai Nair,Female,9,Computer Science,70.3,72.8,1.1,Occasional,Bachelor's
+STU1053,Sai Nair,Female,9,Mathematics,68.7,72.8,1.1,Occasional,Bachelor's
+STU1182,Arjun Joshi,Male,9,Computer Science,75.2,89.1,2.1,None,Bachelor's
+STU1046,Zara Gupta,Male,9,Mathematics,91.1,100.0,4.0,None,Master's
+STU1295,Simran Rao,Female,12,English,94.0,86.8,2.7,Occasional,High School
+STU1223,Ananya Chopra,Female,11,Computer Science,100.0,100.0,4.8,None,Bachelor's
+STU1294,Neha Mehta,Male,11,English,61.9,71.1,0.8,None,Master's
+STU1172,Yash Singh,Male,12,Computer Science,74.6,68.6,5.4,None,Master's
+STU1213,Neha Singh,Female,11,Science,71.2,82.7,5.2,Occasional,High School
+STU1174,Vihaan Rao,Female,10,Social Studies,82.0,76.3,5.4,Regular,Bachelor's
+STU1290,Myra Joshi,Male,11,English,94.6,86.1,0.8,None,High School
+STU1079,Anika Desai,Female,12,Social Studies,70.2,83.1,4.7,None,Bachelor's
+STU1273,Neha Rao,Male,10,English,61.7,78.2,0.0,None,High School
+STU1009,Aryan Patel,Male,12,Mathematics,91.7,84.6,7.9,None,Master's
+STU1032,Aditya Nair,Male,9,Science,71.8,100.0,2.3,None,Master's
+STU1198,Kiara Verma,Female,9,Science,77.9,97.2,5.6,Occasional,High School
+STU1145,Aryan Mehta,Female,11,English,82.6,80.8,3.9,None,High School
+STU1125,Vihaan Kapoor,Male,9,Computer Science,78.1,90.8,4.9,None,Bachelor's
+STU1057,Kabir Kapoor,Male,11,Social Studies,78.4,65.0,1.7,None,Master's
+STU1211,Aarohi Gupta,Male,10,Computer Science,82.4,84.5,1.2,Occasional,Bachelor's
+STU1292,Riya Patel,Female,10,Science,92.7,87.3,4.5,None,Bachelor's
+STU1115,Krishna Rao,Male,10,Mathematics,67.2,72.1,2.5,Regular,PhD
+STU1170,Zara Kumar,Male,12,Mathematics,76.3,86.7,2.7,None,Master's
+STU1267,Myra Gupta,Female,10,Computer Science,70.6,61.2,3.2,None,Bachelor's
+STU1182,Arjun Joshi,Male,9,Science,91.2,89.1,2.1,None,Bachelor's
+STU1250,Zara Rao,Female,10,Computer Science,84.8,100.0,2.6,Occasional,High School
+STU1272,Ananya Desai,Male,10,Mathematics,74.5,84.2,2.0,None,Master's
+STU1186,Vivaan Kumar,Male,11,English,100.0,82.8,4.2,None,High School
+STU1220,Saanvi Reddy,Female,10,Mathematics,95.4,95.7,4.6,Regular,Master's
+STU1241,Zara Gupta,Female,9,English,64.6,89.2,2.4,Regular,Bachelor's
+STU1049,Arjun Chopra,Male,12,English,81.7,100.0,2.7,Occasional,Master's
+STU1095,Krishna Kapoor,Female,10,Science,83.7,92.5,3.1,Occasional,Master's
+STU1017,Aarav Singh,Female,10,Mathematics,59.4,71.2,3.5,Regular,Master's
+STU1093,Aarav Kumar,Male,12,Computer Science,84.2,77.7,5.2,None,Master's
+STU1045,Aarohi Nair,Female,12,Mathematics,89.2,87.0,1.6,None,PhD
+STU1154,Reyansh Iyer,Male,12,Computer Science,91.2,90.2,3.2,Occasional,Master's
+STU1066,Vivaan Gupta,Male,11,Science,85.9,86.6,3.0,None,High School
+STU1046,Zara Gupta,Male,9,Social Studies,81.2,100.0,4.0,None,Master's
+STU1117,Myra Mehta,Female,11,Social Studies,84.8,75.1,3.5,None,High School
+STU1095,Krishna Kapoor,Female,10,Mathematics,78.5,92.5,3.1,Occasional,Master's
+STU1256,Kabir Singh,Male,10,Computer Science,51.1,77.7,0.0,Regular,High School
+STU1119,Aryan Reddy,Male,9,Computer Science,90.2,83.9,4.4,None,PhD
+STU1084,Priya Desai,Male,11,Science,74.5,87.5,2.8,None,Bachelor's
+STU1036,Myra Singh,Female,12,English,80.0,82.2,5.3,Occasional,Bachelor's
+STU1197,Rohan Verma,Male,11,Social Studies,84.0,87.5,2.3,None,High School
+STU1200,Myra Reddy,Male,10,Mathematics,78.4,83.3,1.9,Occasional,High School
+STU1271,Saanvi Kumar,Male,10,Science,83.4,92.5,3.8,Regular,High School
+STU1009,Aryan Patel,Male,12,Computer Science,80.9,84.6,7.9,None,Master's
+STU1280,Ira Nair,Male,9,Computer Science,65.5,85.1,3.9,None,Bachelor's
+STU1205,Kabir Chopra,Male,9,Computer Science,69.9,86.6,3.2,Occasional,High School
+STU1105,Reyansh Sharma,Male,12,Computer Science,63.6,76.8,3.9,None,Bachelor's
+STU1251,Priya Kumar,Male,10,Social Studies,76.4,83.9,2.8,None,Bachelor's
+STU1097,Aadhya Joshi,Male,11,Science,90.1,88.1,7.7,Occasional,Bachelor's
+STU1291,Saanvi Iyer,Female,9,Computer Science,76.7,89.0,5.6,None,Master's
+STU1099,Ishaan Desai,Female,12,English,88.7,81.7,4.2,Regular,Bachelor's
+STU1021,Zara Nair,Male,10,Science,78.5,83.5,3.3,Occasional,Bachelor's
+STU1088,Neha Iyer,Female,11,Social Studies,81.0,84.0,4.2,None,High School
+STU1129,Kabir Iyer,Female,9,Science,78.5,94.4,7.2,None,Master's
+STU1207,Aryan Nair,Female,11,Science,80.0,80.3,3.5,Regular,Master's
+STU1145,Aryan Mehta,Female,11,Science,79.5,80.8,3.9,None,High School
+STU1038,Aarohi Rao,Female,9,Mathematics,82.8,85.4,3.8,Occasional,High School
+STU1056,Dev Gupta,Female,11,English,78.6,90.9,2.6,Occasional,Bachelor's
+STU1005,Aditya Mehta,Female,10,Computer Science,79.2,89.3,1.3,Occasional,Master's
+STU1033,Aryan Reddy,Male,11,Computer Science,76.8,90.0,2.7,Regular,High School
+STU1200,Myra Reddy,Male,10,Science,72.5,83.3,1.9,Occasional,High School
+STU1240,Rohan Kumar,Female,12,Computer Science,84.1,87.0,5.1,Regular,Master's
+STU1020,Myra Kumar,Female,9,Mathematics,80.2,97.4,7.3,Occasional,High School
+STU1039,Ananya Desai,Female,9,English,72.7,74.5,4.3,None,Master's
+STU1099,Ishaan Desai,Female,12,Mathematics,88.0,81.7,4.2,Regular,Bachelor's
+STU1129,Kabir Iyer,Female,9,English,84.5,94.4,7.2,None,Master's
+STU1197,Rohan Verma,Male,11,English,74.3,87.5,2.3,None,High School
+STU1008,Ishaan Kapoor,Male,9,Computer Science,98.3,83.0,4.3,None,High School
+STU1142,Yash Kapoor,Female,10,Mathematics,88.2,94.0,2.7,Regular,High School
+STU1074,Ananya Chopra,Female,9,Social Studies,78.6,86.8,3.2,None,High School
+STU1135,Kiara Kapoor,Female,10,Social Studies,88.5,77.3,1.0,Occasional,High School
+STU1113,Ishaan Sharma,Female,9,Science,80.1,82.6,3.9,Regular,PhD
+STU1169,Sai Singh,Female,11,English,84.1,55.7,4.7,OCCASIONAL  ,High School
+STU1092,Anika Sharma,Female,12,Mathematics,91.1,88.3,2.8,Regular,Master's
+STU1231,Myra Patel,Male,12,Mathematics,100.0,85.5,3.0,Occasional,Bachelor's
+STU1007,Tanvi Mehta,Female,12,Computer Science,72.3,76.6,4.1,Occasional,Master's
+STU1086,Meera Singh,Female,9,Computer Science,97.3,100.0,0.7,Occasional,High School
+STU1194,Riya Singh,Female,9,Social Studies,57.0,71.8,1.7,None,Bachelor's
+STU1247,Anika Iyer,Male,9,Computer Science,63.5,73.4,1.7,None,Master's
+STU1201,Riya Chopra,Female,11,English,64.8,75.6,4.7,Regular,High School
+STU1091,Yash Desai,Male,10,Science,83.7,76.2,4.1,Occasional,High School
+STU1052,Kabir Rao,Male,11,Mathematics,82.4,85.9,5.0,None,Bachelor's
+STU1007,Tanvi Mehta,Female,12,Mathematics,66.2,76.6,4.1,Occasional,Master's
+STU1165,Sai Mehta,Female,10,English,69.9,90.1,4.6,Occasional,Master's
+STU1061,Vivaan Mehta,Female,11,Computer Science,95.9,82.3,6.1,None,High School
+STU1055,Aarav Singh,Male,11,Science,76.0,95.0,3.9,None,PhD
+STU1127,Meera Nair,Female,9,Science,94.7,95.9,3.1,Regular,Bachelor's
+STU1130,Aadhya Kumar,Male,10,Computer Science,64.2,76.6,4.3,None,PhD
+STU1124,Dev Iyer,Female,12,English,100.0,92.1,5.3,None,Bachelor's
+STU1168,Aryan Reddy,Male,11,Computer Science,69.9,79.9,0.0,Regular,Bachelor's
+STU1078,Riya Verma,Male,10,Social Studies,69.1,87.9,4.3,Regular,High School
+STU1021,Zara Nair,Male,10,English,81.0,83.5,3.3,Occasional,Bachelor's
+STU1069,Neha Patel,Female,12,Computer Science,85.0,99.0,2.3,Regular,High School
+STU1104,Myra Rao,Female,10,Computer Science,68.3,99.8,2.2,Occasional,Bachelor's
+STU1156,Meera Desai,Male,10,Computer Science,56.8,97.9,2.8,None,High School
+STU1009,Aryan Patel,Male,12,English,83.4,84.6,7.9,None,Master's
+STU1040,Neha Sharma,Male,12,Social Studies,100.0,69.3,5.9,Occasional,Bachelor's
+STU1004,Tanvi Mehta,Female,9,Science,84.3,95.7,4.5,Occasional,High School
+STU1080,Zara Kapoor,Male,9,English,73.0,66.0,4.2,None,Bachelor's
+STU1221,Dev Desai,Female,11,English,63.7,64.0,5.5,Regular,High School
+STU1230,Aryan Chopra,Male,12,Computer Science,68.6,72.5,3.8,Regular,Bachelor's
+STU1197,Rohan Verma,Male,11,Computer Science,82.4,87.5,2.3,None,High School
+STU1148,Rohan Joshi,Female,10,Science,92.5,95.2,2.5,Regular,High School
+STU1262,Rohan Desai,Male,10,Mathematics,91.5,88.9,5.4,None,High School
+STU1229,Zara Nair,Female,10,English,84.8,86.4,6.2,None,Master's
+STU1006,Rohan Mehta,Male,11,Social Studies,78.7,97.5,0.9,Occasional,High School
+STU1157,Saanvi Verma,Male,10,English,79.8,97.7,4.2,Regular,High School
+STU1184,Ananya Singh,Male,9,Social Studies,87.0,96.5,2.1,None,Bachelor's
+STU1208,Dev Chopra,Male,11,Social Studies,82.5,96.0,5.3,Occasional,High School
+STU1288,Dev Nair,Male,9,Computer Science,97.5,100.0,5.0,Occasional,High School
+STU1248,Priya Mehta,Female,12,Social Studies,48.9,76.5,1.0,None,Bachelor's
+STU1115,Krishna Rao,Male,10,Computer Science,62.0,72.1,2.5,Regular,PhD
+STU1096,Aadhya Verma,Female,11,Science,79.2,100.0,3.0,Regular,Bachelor's
+STU1186,Vivaan Kumar,Male,11,Science,100.0,82.8,4.2,None,High School
+STU1071,Ishaan Singh,Male,11,Science,79.4,91.5,3.8,Regular,High School
+STU1249,Tanvi Kapoor,Female,9,Social Studies,67.9,78.5,2.9,Occasional,High School
+STU1151,Saanvi Rao,Female,10,Computer Science,95.4,81.4,4.0,None,High School
+STU1018,Priya Rao,Female,9,English,100.0,98.1,2.7,None,High School
+STU1235,Myra Patel,Female,10,Mathematics,74.3,99.1,3.1,Occasional,Bachelor's
+STU1283,Diya Desai,Male,10,Mathematics,83.5,79.5,2.1,Occasional,Bachelor's
+STU1268,Arjun Joshi,Female,12,Science,97.9,77.5,4.9,Occasional,Bachelor's
+STU1160,Ishaan Kapoor,Female,12,Social Studies,98.7,92.8,3.5,None,PhD
+STU1149,Saanvi Sharma,Female,12,Mathematics,78.8,70.8,3.3,Regular,Master's
+STU1055,Aarav Singh,Male,11,Computer Science,73.7,95.0,3.9,None,PhD
+STU1152,Ananya Sharma,Male,9,Computer Science,68.3,67.2,3.2,Regular,Bachelor's
+STU1120,Ananya Nair,Male,9,Computer Science,85.8,63.9,4.5,Occasional,Bachelor's
+STU1297,Simran Gupta,Female,9,Science,84.2,99.3,5.0,Occasional,High School
+STU1274,Vihaan Sharma,Female,11,Social Studies,64.9,81.9,2.1,None,Bachelor's
+STU1279,Simran Rao,Male,11,Social Studies,74.4,74.7,4.5,Occasional,Bachelor's
+STU1080,Zara Kapoor,Male,9,Mathematics,76.0,66.0,4.2,None,Bachelor's
+STU1051,Priya Kumar,Female,11,English,96.7,83.9,1.4,Regular,Master's
+STU1188,Arjun Kumar,Female,11,Computer Science,68.9,75.1,2.9,Regular,High School
+STU1219,Krishna Sharma,Male,11,Science,89.1,96.8,4.3,Occasional,High School
+STU1243,Aarohi Singh,Male,11,Computer Science,99.9,71.4,1.8,None,Master's
+STU1232,Sai Singh,Female,9,Science,79.7,78.5,2.4,Regular,High School
+STU1098,Yash Sharma,Female,9,Computer Science,78.3,91.6,3.5,Regular,High School
+STU1154,Reyansh Iyer,Male,12,English,90.4,90.2,3.2,Occasional,Master's
+STU1110,Reyansh Singh,Male,9,Mathematics,66.4,67.2,5.2,Occasional,Bachelor's
+STU1040,Neha Sharma,Male,12,Science,100.0,69.3,5.9,Occasional,Bachelor's
+STU1062,Aryan Nair,Female,9,English,68.4,86.7,1.3,Regular,High School
+STU1058,Sai Kapoor,Male,10,Mathematics,82.5,88.1,2.9,Occasional,Master's
+STU1242,Kabir Singh,Male,10,Social Studies,90.7,93.6,3.0,Occasional,Bachelor's
+STU1152,Ananya Sharma,Male,9,Social Studies,63.0,67.2,3.2,Regular,Bachelor's
+STU1227,Kabir Kapoor,Female,12,Science,86.6,100.0,4.3,Occasional,High School
+STU1189,Simran Verma,Male,10,Computer Science,83.3,65.9,2.6,Regular,Bachelor's
+STU1036,Myra Singh,Female,12,Social Studies,79.9,82.2,5.3,Occasional,Bachelor's
+STU1235,Myra Patel,Female,10,Science,91.9,99.1,3.1,Occasional,Bachelor's
+STU1269,Krishna Rao,Female,12,Computer Science,82.2,96.1,2.2,NONE  ,High School
+STU1213,Neha Singh,Female,11,Social Studies,70.3,82.7,5.2,Occasional,High School
+STU1293,Sai Gupta,Female,11,Social Studies,73.4,75.0,4.1,Occasional,Bachelor's
+STU1206,Dev Kumar,Male,9,Mathematics,72.1,91.6,4.4,None,Bachelor's
+STU1050,Krishna Patel,Male,10,Mathematics,83.5,71.5,4.0,Occasional,PhD
+STU1164,Aarav Iyer,Male,10,Social Studies,77.7,76.6,6.3,None,High School
+STU1219,Krishna Sharma,Male,11,Computer Science,96.9,96.8,4.3,Occasional,High School
+STU1188,Arjun Kumar,Female,11,Mathematics,62.7,75.1,2.9,Regular,High School
+STU1078,Riya Verma,Male,10,Science,61.2,87.9,4.3,Regular,High School
+STU1291,Saanvi Iyer,Female,9,Science,90.9,89.0,5.6,None,Master's
+STU1218,Meera Sharma,Female,9,English,83.7,81.5,0.3,Occasional,Master's
+STU1238,Ira Verma,Male,12,Science,84.9,67.5,4.8,Occasional,PhD
+STU1180,Dev Reddy,Female,10,Computer Science,87.1,78.0,4.5,Regular,PhD
+STU1146,Vihaan Reddy,Female,9,Mathematics,82.4,73.8,1.9,Occasional,PhD
+STU1110,Reyansh Singh,Male,9,Computer Science,73.1,67.2,5.2,Occasional,Bachelor's
+STU1073,Sai Singh,Male,12,Science,98.7,89.9,4.3,Regular,Bachelor's
+STU1069,Neha Patel,Female,12,Mathematics,88.5,,2.3,Regular,High School
+STU1107,Aditya Patel,Female,10,Mathematics,77.9,91.4,4.0,Occasional,High School
+STU1284,Aryan Patel,Female,10,English,77.6,94.9,2.4,Occasional,High School
+STU1241,Zara Gupta,Female,9,Computer Science,74.9,89.2,2.4,Regular,Bachelor's
+STU1274,Vihaan Sharma,Female,11,English,58.0,81.9,2.1,None,Bachelor's
+STU1183,Anika Chopra,Female,9,Computer Science,87.2,70.5,5.3,None,Bachelor's
+STU1042,Dev Kumar,Male,11,Science,85.8,84.4,4.0,None,Bachelor's
+STU1100,Anika Gupta,Female,10,English,70.2,88.7,1.4,Occasional,Bachelor's
+STU1107,Aditya Patel,Female,10,English,80.3,91.4,4.0,Occasional,High School
+STU1244,Priya Chopra,Male,12,Mathematics,94.0,90.4,3.4,None,High School
+STU1035,Aarohi Mehta,Female,12,Mathematics,62.9,71.2,3.2,Occasional,High School
