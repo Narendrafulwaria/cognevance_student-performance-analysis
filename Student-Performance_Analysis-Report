@@ -1,0 +1,18 @@
+Project_Report
+
+Student academic performance shows a clear connection with students’ attendance
+and study habits. Students who fall into higher attendance buckets tend to achieve higher average marks,
+while study hours per week are almost directly proportional to marks. This relationship is also reflected
+in the moderate positive correlation of 0.37 between attendance percent and marks.
+
+The difference becomes especially visible when attendance and study time are considered together.
+Students attending 70%-90% of classes and studying 6-8hrs per week achieve the highest average marks of 90.69.
+In contrast, students attending 50-70% of classes and studying 0-2hrs per week have the lowest average marks of 68.14.
+Parental education does not affect students marks, indicating that the stronger performance patterns are associated 
+with attendance and study habits rather than parental education.
+
+Academic coordinators should therefore focus their support on students with 
+50-70% attendance and 0-2hrs of weekly study, specifically encouraging them to 
+improve attendance and increase study time toward 6-8hrs per week. The 70%-90% 
+attendance and 6-8hrs study pattern can serve as a target because it is associated
+with the highest average marks of 90.69.
